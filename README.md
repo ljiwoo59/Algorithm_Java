@@ -9,4 +9,5 @@
 
 ### [Gold](https://github.com/ljiwoo59/algorithm_java/tree/master/gold)
 * 4358 생태학
-* 14502 
+* 14502 연구소
+
