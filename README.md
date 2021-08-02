@@ -1,4 +1,4 @@
-# algorithm_java
+# Algorithm_Java
 
 ## Baekjoon
 ### [Gold](https://github.com/ljiwoo59/algorithm_java/tree/master/Baekjoon/gold)
