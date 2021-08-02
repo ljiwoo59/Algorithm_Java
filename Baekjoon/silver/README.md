@@ -19,3 +19,8 @@
 * 최대 1,000,000의 문자열을 처리해야 하기 때문에 List 의  add, remove 함수 (평균 O(n)) 는 느리다
 * Stack 의 push(), pop() 은 말단 노드에서 일어나기 때문에 O(1)
 * 커서 기준 문자열 Stack 두개를 이용하여 push(), pop() 으로 처리
+
+# Silver 4
+## [1244 스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)
+* 단순 for 문과 재귀를 이용하여 구현
+
