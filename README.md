@@ -1,11 +1,11 @@
 # algorithm_java
 
 ## Baekjoon
-### [Gold](https://github.com/ljiwoo59/algorithm_java/tree/master/gold)
+### [Gold](https://github.com/ljiwoo59/algorithm_java/tree/master/Baekjoon/gold)
 * 4358 생태학
 * 14502 연구소
 
-### [Silver](https://github.com/ljiwoo59/algorithm_java/tree/master/silver)
+### [Silver](https://github.com/ljiwoo59/algorithm_java/tree/master/Baekjoon/silver)
 * 2564 경비원
 * 1541 잃어버린 괄호
 * 16953 A -> B
