@@ -8,6 +8,12 @@
 # Silver 2
 ## [1541 잃어버린 괄호](https://www.acmicpc.net/problem/1541)
 * 제일 처음 '-' 기준으로 모두 빼버리면 된다
+
+## [11053 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)
+* DP 를 이용하여 현재 수 보다 작은 수가 있는지를 찾고
+* 순열을 이루고 있는 작은 수를 현재 수를 포함해 담는다
+
+
 # Silver 3
 ## [5397 키로거](https://www.acmicpc.net/problem/5397)
 * 최대 1,000,000의 문자열을 처리해야 하기 때문에 List 의  add, remove 함수 (평균 O(n)) 는 느리다
