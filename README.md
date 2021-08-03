@@ -14,8 +14,13 @@
 * 1244 스위치 켜고 끄기
 
 ## SW Expert Academy
+### [D4](https://github.com/ljiwoo59/Algorithm_Java/tree/master/SWAcademy/D4)
+* 1210 Ladder1
+
 ### [D3](https://github.com/ljiwoo59/algorithm_java/tree/master/SWAcademy/D3)
 * 1289 원재의 메모리 복구하기
+* 1208 Flatten
 
 ### [D2](https://github.com/ljiwoo59/algorithm_java/tree/master/SWAcademy/D2)
 * 1204 최빈수 구하기
+* 1954 달팽이 숫자
