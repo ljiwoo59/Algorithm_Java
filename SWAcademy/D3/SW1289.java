@@ -1,5 +1,3 @@
-package day1;
-
 import java.io.*;
 
 // SW 1289 원재의 메모리 복구하기 D3
