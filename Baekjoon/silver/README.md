@@ -1,6 +1,6 @@
 # Silver 1
 ## [2564 경비원](https://www.acmicpc.net/problem/2564)
-### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/silver/guard.java)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/silver/B2564.java)
 * 시계 방향, 반시계 방향으로 완전탐색
 * 북서쪽 꼭짓점을 기준으로 펼치는 방법도 있다
 ## [16953 A->B](https://www.acmicpc.net/problem/16953)
