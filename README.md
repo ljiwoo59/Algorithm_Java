@@ -20,10 +20,13 @@
 ### [D3](https://github.com/ljiwoo59/algorithm_java/tree/master/SWAcademy/D3)
 * 1289 원재의 메모리 복구하기
 * 1208 Flatten
+* 1873 상호의 배틀필드
+* 2805 농작물 수확하기
 
 ### [D2](https://github.com/ljiwoo59/algorithm_java/tree/master/SWAcademy/D2)
 * 1204 최빈수 구하기
 * 1954 달팽이 숫자
+* 2001 파리 퇴치
 
 ---
 # [Concepts](https://github.com/ljiwoo59/Algorithm_Study)
