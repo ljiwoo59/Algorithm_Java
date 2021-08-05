@@ -5,6 +5,7 @@
 * 4358 생태학
 * 14502 연구소
 * 6198 옥상 정원 꾸미기
+* 2493 탑
 
 ### [Silver](https://github.com/ljiwoo59/algorithm_java/tree/master/Baekjoon/silver)
 * 2564 경비원
