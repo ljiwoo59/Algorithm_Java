@@ -17,12 +17,14 @@
 ## SW Expert Academy
 ### [D4](https://github.com/ljiwoo59/Algorithm_Java/tree/master/SWAcademy/D4)
 * 1210 Ladder1
+* 1218 괄호 짝짓기
 
 ### [D3](https://github.com/ljiwoo59/algorithm_java/tree/master/SWAcademy/D3)
 * 1289 원재의 메모리 복구하기
 * 1208 Flatten
 * 1873 상호의 배틀필드
 * 2805 농작물 수확하기
+* 1225 암호 생성기
 
 ### [D2](https://github.com/ljiwoo59/algorithm_java/tree/master/SWAcademy/D2)
 * 1204 최빈수 구하기
