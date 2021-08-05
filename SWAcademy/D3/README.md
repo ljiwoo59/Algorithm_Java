@@ -20,3 +20,7 @@
 ### [Code: for loop](https://github.com/ljiwoo59/Algorithm_Java/blob/master/SWAcademy/D3/SW2805_2.java)
 * 마름모 구하는 공식 (*Math.abs(mid - row) <= n < N - Math.abs(mid - row)*) 을 이용하여 재귀/for loop
 
+## [1225 암호 생성기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14uWl6AF0CFAYD&categoryId=AV14uWl6AF0CFAYD&categoryType=CODE&problemTitle=1225&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/SWAcademy/D3/SW1225.java)
+* LinkedList 에 있는 **Deque** 함수를 사용해 숫자 처리는 queue 형태 (*offer, poll*) 로, 0 이 tail 에 포함되어있는지는 stack 의 peek 를 사용
+
