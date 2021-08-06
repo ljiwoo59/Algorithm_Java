@@ -9,7 +9,7 @@
 * 벽 3개를 세웠을 시 바이러스의 퍼짐 재귀로 구현
 * 빈칸의 최대 값 출력
 
-## [6198 옥상 정원 꾸미기](https://www.acmicpc.net/problem/6198)
+## [6198 옥상 정원 꾸미기](https://www.acmicpc.net/problem/6198) ***
 ### [Code: recursion](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B6198.java)
 ### [Code: stack](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B6198_2.java)
 * *long* 을 이용하여 integer range 가 넘어가는 경우 처리
@@ -19,7 +19,7 @@
   * 현재 스택 사이즈를 *sum* 에 더해줌으로서 현 빌딩을 바라보고 있는 전 빌딩들의 총 개수를 더해준다
   * 스택에 현 빌딩을 *push* 한다
 
-## [2493 탑](https://www.acmicpc.net/problem/2493)
+## [2493 탑](https://www.acmicpc.net/problem/2493) ***
 ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B2493.java)
 * 빌딩의 높이와 인덱스를 받는 **Stack** 이용
   * *Stack* 이 비어있지 않을 경우, *top* 빌딩과 비교하여 현재 빌딩이 높을 경우, 계속 *pop* 해준다
@@ -27,3 +27,9 @@
   * 현재 빌딩을 *push* 해준다
   * 결국엔 감소 순으로 스택에 넣는다
 * 처음 시도했던 로직은 왜 안되는지 모름
+
+## [3190 뱀](https://www.acmicpc.net/problem/3190)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B3190.java)
+* **LinkedList** 이용하여 뱀 머리와 꼬리 구현
+* 사방탐색 시계 방향, 반시계 방향 으로 머리 회전 구현
+
