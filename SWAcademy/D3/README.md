@@ -24,3 +24,7 @@
 ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/SWAcademy/D3/SW1225.java)
 * LinkedList 에 있는 **Deque** 함수를 사용해 숫자 처리는 queue 형태 (*offer, poll*) 로, 0 이 tail 에 포함되어있는지는 stack 의 peek 를 사용
 
+## [3499 퍼펙트 셔플](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWGsRbk6AQIDFAVW&categoryId=AWGsRbk6AQIDFAVW&categoryType=CODE&problemTitle=3499&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/SWAcademy/D3/SW3499.java)
+* **Queue** 두개를 이용하여 카드덱 반으로 나눔
+  * 홀수일 경우를 위해 Math.ceil() 을 이용하여 올림 계산 (첫 덱이 한장 더 가져감)
