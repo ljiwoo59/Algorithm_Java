@@ -33,3 +33,9 @@
 * **LinkedList** 이용하여 뱀 머리와 꼬리 구현
 * 사방탐색 시계 방향, 반시계 방향 으로 머리 회전 구현
 
+## [2705 N번째 큰 수](https://www.acmicpc.net/problem/2075)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B2075.java)
+* 메모리 제한 때문에 **Priority Queue** 로 구현
+  * *SortedList* 와 다르게 내부에 순서대로 저장되는 것이 아니라 *head* 에 우선순위가 가장 높은 수가 위치한다
+* N 번째 큰 수가 목표기 때문에 큐 사이즈가 N 초과이면 *poll* 을 해주면서 우선순위가 높은 수(제일 작은 수) 를 삭제한다
+  * 삽입이 끝난 후 *head* 에 위치한 수가 정답
