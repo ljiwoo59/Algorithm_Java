@@ -7,6 +7,7 @@
 * 6198 옥상 정원 꾸미기
 * 2493 탑
 * 3190 뱀
+* 2075 N번째 큰 수
 
 ### [Silver](https://github.com/ljiwoo59/algorithm_java/tree/master/Baekjoon/silver)
 * 2564 경비원
