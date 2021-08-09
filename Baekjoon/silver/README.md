@@ -15,6 +15,11 @@
 * root 에서 **dfs** 를 통해 해당 node 까지의 총합 수를 넘겨주어 시간 줄임
    * ArrayList 대신 LinkedList 를 쓰면 시간 초과가 난다 
 
+## [2841 외계인의 기타 연주](https://www.acmicpc.net/problem/2841)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/silver/B2841.java)
+* **LinkedList 의 LinkedList** 를 구현하여 6개의 줄의 프렛 스택을 구현
+* *addLast()* 와 *removeLast()* 를 이용함
+
 # Silver 2
 ## [1541 잃어버린 괄호](https://www.acmicpc.net/problem/1541)
 ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/silver/B1541.java)
