@@ -33,6 +33,7 @@
 * 1225 암호 생성기
 * 3499 퍼펙트 셔플
 * 1228 암호문 1
+* 9229 한빈이와 Spot Mart
 
 ### [D2](https://github.com/ljiwoo59/algorithm_java/tree/master/SWAcademy/D2)
 * 1204 최빈수 구하기
