@@ -17,6 +17,7 @@
 * 11053 가장 긴 증가하는 부분 수열
 * 1244 스위치 켜고 끄기
 * 15900 나무 탈출
+* 2841 외계인의 기타 연주
 
 ## SW Expert Academy
 ### [D4](https://github.com/ljiwoo59/Algorithm_Java/tree/master/SWAcademy/D4)
@@ -31,6 +32,7 @@
 * 2805 농작물 수확하기
 * 1225 암호 생성기
 * 3499 퍼펙트 셔플
+* 1228 암호문 1
 
 ### [D2](https://github.com/ljiwoo59/algorithm_java/tree/master/SWAcademy/D2)
 * 1204 최빈수 구하기
