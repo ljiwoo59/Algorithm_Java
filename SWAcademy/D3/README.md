@@ -28,3 +28,7 @@
 ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/SWAcademy/D3/SW3499.java)
 * **Queue** 두개를 이용하여 카드덱 반으로 나눔
   * 홀수일 경우를 위해 Math.ceil() 을 이용하여 올림 계산 (첫 덱이 한장 더 가져감)
+
+## [1228 암호문 1](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14w-rKAHACFAYD&categoryId=AV14w-rKAHACFAYD&categoryType=CODE&problemTitle=1228&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/SWAcademy/D3/SW1228.java)
+* **ArrayList** 를 이용하여 인덱스 중간 삽입
