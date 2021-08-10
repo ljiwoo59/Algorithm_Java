@@ -18,12 +18,18 @@
 * 1244 스위치 켜고 끄기
 * 15900 나무 탈출
 * 2841 외계인의 기타 연주
+* 1158 요세푸스 문제
+* 2563 색종이
+* 1260 DFS 와 BFS
+* 1012 유기농 배추
+* 4963 섬의 개수
 
 ## SW Expert Academy
 ### [D4](https://github.com/ljiwoo59/Algorithm_Java/tree/master/SWAcademy/D4)
 * 1210 Ladder1
 * 1218 괄호 짝짓기
 * 1861 정사각형 방
+* 1233 사칙연산 유효성 검사
 
 ### [D3](https://github.com/ljiwoo59/algorithm_java/tree/master/SWAcademy/D3)
 * 1289 원재의 메모리 복구하기
