@@ -15,3 +15,7 @@
 * 모든 경우를 계산할 경우, 중복 계산이 일어남
 * visit 배열을 생성함으로서 이미 계산한 값을 그대로 받아옴
 
+## [1233 사칙연산 유효성 검사](https://swexpertacademy.com/main/code/problem/problemDetail.do)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/SWAcademy/D4/SW1233.java)
+* 완전 이진 트리 이므로 모든 leaf node 는 숫자, 그 외는 연산자를 가지고 있어야함
+
