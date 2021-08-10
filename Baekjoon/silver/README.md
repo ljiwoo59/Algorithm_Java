@@ -6,13 +6,13 @@
 ## [16953 A->B](https://www.acmicpc.net/problem/16953)
 ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/silver/B16953.java)
 * 단순 while 문으로 구현
-* BFS 를 이용하여 경우의 수를 구하는 방법도 있다
+* **BFS** 를 이용하여 경우의 수를 구하는 방법도 있다
 
 ## [15900 나무 탈출](https://www.acmicpc.net/problem/15900)
 ### [Code : 시간초과](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/silver/B15900.java)
 ### [Code : from root](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/silver/B15900_2.java)
 * leaf node 를 찾고 leaf 에서 부터 root 까지의 총합을 구하는 것은 시간 초과
-* root 에서 **dfs** 를 통해 해당 node 까지의 총합 수를 넘겨주어 시간 줄임
+* root 에서 **DFS** 를 통해 해당 node 까지의 총합 수를 넘겨주어 시간 줄임
    * ArrayList 대신 LinkedList 를 쓰면 시간 초과가 난다 
 
 ## [2841 외계인의 기타 연주](https://www.acmicpc.net/problem/2841)
@@ -30,6 +30,21 @@
 * DP 를 이용하여 현재 수 보다 작은 수가 있는지를 찾고
 * 순열을 이루고 있는 작은 수를 현재 수를 포함해 담는다
 
+## [1260 DFS와 BFS](https://www.acmicpc.net/problem/1260)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/silver/B1260.java)
+* 2차원 배열을 이용하여 노드와 노드간의 간선 표시
+  * arr[x][y] = arr[y][x]
+* visit 배열로 방문한 노드 표시
+
+## [1012 유기농 배추](https://www.acmicpc.net/problem/1012)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/silver/B1012.java)
+* 2차원 배열에 배추 표시, 계산한 배추는 0으로 초기화
+* **DFS** 를 이용하여 인접한 배추 초기화
+
+## [4963 섬의 개수](https://www.acmicpc.net/problem/4963)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/silver/B4963.java)
+* 2차원 배열에 섬 표시, 계산한 섬은 0으로 초기화
+* **DFS** 를 이용하여 인접한 섬 초기화
 
 # Silver 3
 ## [5397 키로거](https://www.acmicpc.net/problem/5397)
@@ -43,3 +58,11 @@
 ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/silver/B1244.java)
 * 단순 for 문과 재귀를 이용하여 구현
 
+# Silver 5
+## [1158 요세푸스 문제](https://www.acmicpc.net/problem/1158)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/silver/B1158.java)
+* **Queue** 를 이용하여 값을 *poll*, *offer* 하며 원형리스트 처럼 구현
+
+## [2563 색종이](https://www.acmicpc.net/problem/2563)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/silver/B2563.java)
+* 2차원 배열을 이용하여 중복계산 방지
