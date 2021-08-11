@@ -30,6 +30,11 @@
 * 모두 물에 잠기지 않는 경우가 있으므로 result 값은 1로 초기화
 * 1 부터 100 높이 까지 물이 잠겼을 경우 각각 **DFS** 를 이용하여 영역 개수 처리
 
+## [1389 케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/silver/B1389.java)
+* 인접행렬을 이용하여 관계 처리
+* **BFS** 를 이용하여 각 노드의 단계 합산
+
 ---
 
 # Silver 2
