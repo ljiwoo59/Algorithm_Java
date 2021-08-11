@@ -36,3 +36,7 @@
 ## [9229 한빈이와 Spot Mart](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW8Wj7cqbY0DFAXN)
 ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/SWAcademy/D3/SW9229.java)
 * nC2 **Combination** 을 이용하여 모든 조합을 구하고 limit 보다 작거나 같은 max sum 을 구함
+
+## [5215 햄버거 다이어트](https://swexpertacademy.com/main/code/problem/problemDetail.do)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/SWAcademy/D3/SW5215.java)
+* **부분집합** 알고리즘을 이용하여 총 경우의 수를 구해 처리
