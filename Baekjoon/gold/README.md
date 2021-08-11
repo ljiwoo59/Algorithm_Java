@@ -1,3 +1,11 @@
+# Gold 4
+## [1987 알파벳](https://www.acmicpc.net/problem/1987)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B1987.java)
+* visit 배열을 이용하여 지나간 캐릭터 값 확인
+* **DFS** 를 이용하여 도달할 수 있는 최장 거리 값 구하기
+
+---
+
 # Gold 5
 ## [4358 생태학](https://www.acmicpc.net/problem/4358)
 ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B4358.java)
@@ -39,3 +47,18 @@
   * *SortedList* 와 다르게 내부에 순서대로 저장되는 것이 아니라 *head* 에 우선순위가 가장 높은 수가 위치한다
 * N 번째 큰 수가 목표기 때문에 큐 사이즈가 N 초과이면 *poll* 을 해주면서 우선순위가 높은 수(제일 작은 수) 를 삭제한다
   * 삽입이 끝난 후 *head* 에 위치한 수가 정답
+
+## [9251 LCS](https://www.acmicpc.net/problem/9251)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B9251.java)
+* 각 스트링을 *행렬*로 구현
+* 현재 캐릭터가 같으면 *i - 1*, * j - 1* (각자의 이전 캐릭터 위치) 의 값 + 1
+* 다르면 이전 캐릭터들 중 제일 긴 수열 값을 가진 값을 받아온다 (*i*, *j - 1* or *i - 1*, *j*)
+
+## [5582 공통 부분 문자열](https://www.acmicpc.net/problem/5582)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B5582.java)
+* 수열이 아니라 문자열이기 때문에 현재 캐릭터가 같을 때만 이전 값을 받아 온다
+
+## [2589 보물섬](https://www.acmicpc.net/problem/2589) **
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B2589.java)
+* 각 육지 좌표로부터 다른 육지 좌표까지의 최단 거리 중 제일 긴 값
+* 최단 거리를 구하는 **bfs** 를 이용하여 현재 육지 좌표 기준 각 육지의 거리를 구한 뒤 max 값 저장
