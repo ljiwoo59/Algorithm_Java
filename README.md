@@ -30,6 +30,7 @@
 * 2468 안전 영역
 * 5567 결혼식
 * 16926 배열 돌리기 1
+* 1389 케빈 베이컨의 6단계 법칙
 
 ## SW Expert Academy
 ### [D4](https://github.com/ljiwoo59/Algorithm_Java/tree/master/SWAcademy/D4)
