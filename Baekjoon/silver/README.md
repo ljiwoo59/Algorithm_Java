@@ -20,6 +20,18 @@
 * **LinkedList 의 LinkedList** 를 구현하여 6개의 줄의 프렛 스택을 구현
 * *addLast()* 와 *removeLast()* 를 이용함
 
+## [5567 결혼식](https://www.acmicpc.net/problem/5567)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/silver/B5567.java)
+* *tree* 의 간선을 인접행렬을 이용하여 저장
+* visit 배열로 친구 중복 방지
+
+## [2468 안전 영역](https://www.acmicpc.net/problem/2468)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/silver/B2468.java)
+* 모두 물에 잠기지 않는 경우가 있으므로 result 값은 1로 초기화
+* 1 부터 100 높이 까지 물이 잠겼을 경우 각각 **DFS** 를 이용하여 영역 개수 처리
+
+---
+
 # Silver 2
 ## [1541 잃어버린 괄호](https://www.acmicpc.net/problem/1541)
 ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/silver/B1541.java)
@@ -46,6 +58,8 @@
 * 2차원 배열에 섬 표시, 계산한 섬은 0으로 초기화
 * **DFS** 를 이용하여 인접한 섬 초기화
 
+---
+
 # Silver 3
 ## [5397 키로거](https://www.acmicpc.net/problem/5397)
 ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/silver/B5397.java)
@@ -53,10 +67,20 @@
 * Stack 의 push(), pop() 은 말단 노드에서 일어나기 때문에 O(1)
 * 커서 기준 문자열 Stack 두개를 이용하여 push(), pop() 으로 처리
 
+## [16926 배열 돌리기 1](https://www.acmicpc.net/problem/16926)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/silver/B16926.java)
+* 재귀 호출로 2차원 배열의 회전하는 각 가장자리 부분을 1차원 배열로 저장
+* **Queue** 를 이용하여 회전 구현
+* 1차원 배열을 다시 2차원으로 저장
+
+---
+
 # Silver 4
 ## [1244 스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)
 ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/silver/B1244.java)
 * 단순 for 문과 재귀를 이용하여 구현
+
+---
 
 # Silver 5
 ## [1158 요세푸스 문제](https://www.acmicpc.net/problem/1158)
