@@ -8,6 +8,10 @@
 * 2493 탑
 * 3190 뱀
 * 2075 N번째 큰 수
+* 9251 LCS
+* 5582 공통 부분 문자열
+* 1987 알파벳
+* 2589 보물섬
 
 ### [Silver](https://github.com/ljiwoo59/algorithm_java/tree/master/Baekjoon/silver)
 * 2564 경비원
@@ -23,6 +27,9 @@
 * 1260 DFS 와 BFS
 * 1012 유기농 배추
 * 4963 섬의 개수
+* 2468 안전 영역
+* 5567 결혼식
+* 16926 배열 돌리기 1
 
 ## SW Expert Academy
 ### [D4](https://github.com/ljiwoo59/Algorithm_Java/tree/master/SWAcademy/D4)
@@ -40,6 +47,7 @@
 * 3499 퍼펙트 셔플
 * 1228 암호문 1
 * 9229 한빈이와 Spot Mart
+* 5215 햄버거 다이어트
 
 ### [D2](https://github.com/ljiwoo59/algorithm_java/tree/master/SWAcademy/D2)
 * 1204 최빈수 구하기
