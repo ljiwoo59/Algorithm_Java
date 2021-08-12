@@ -31,6 +31,9 @@
 * 5567 결혼식
 * 16926 배열 돌리기 1
 * 1389 케빈 베이컨의 6단계 법칙
+* 7569 토마토
+* 2961 도영이가 만든 맛있는 음식
+* 2002 추월
 
 ## SW Expert Academy
 ### [D4](https://github.com/ljiwoo59/Algorithm_Java/tree/master/SWAcademy/D4)
