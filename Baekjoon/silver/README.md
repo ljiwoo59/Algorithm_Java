@@ -35,6 +35,24 @@
 * 인접행렬을 이용하여 관계 처리
 * **BFS** 를 이용하여 각 노드의 단계 합산
 
+## [7569 토마토](https://www.acmicpc.net/problem/7576)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/silver/B7569.java)
+* **Queue** 를 이용하여 **BFS** 구현
+* 좌표의 층은 *r / R*
+* 2차원을 3차원으로 구현해야 하므로 각 층의 제한을 *nxr >= curr[2] \* R && nxr < (curr[2] + 1) \* R* 으로 준다
+* 윗층 아랫층 제한은 각각 *upr < R \* H*, dwr >= 0* 으로 준다
+
+## [2961 도영이가 만든 맛있는 음식](https://www.acmicpc.net/problem/2961)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/silver/B2961.java)
+* *부분집합*을 이용하여 모든 경우의 수를 구한다
+  * Bit 연산 이용
+* 공집합은 예외처리
+
+## [2002 추월](https://www.acmicpc.net/problem/2002)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/silver/B2002.java)
+* **Queue** 두개를 이용하여 in 과 out 구현
+* in 을 기준으로 out 과 비교해주면서 추월 차량 계산
+
 ---
 
 # Silver 2
