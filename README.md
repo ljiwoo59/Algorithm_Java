@@ -12,6 +12,7 @@
 * 5582 공통 부분 문자열
 * 1987 알파벳
 * 2589 보물섬
+* 15686 치킨 배달
 
 ### [Silver](https://github.com/ljiwoo59/algorithm_java/tree/master/Baekjoon/silver)
 * 2564 경비원
