@@ -62,3 +62,8 @@
 ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B2589.java)
 * 각 육지 좌표로부터 다른 육지 좌표까지의 최단 거리 중 제일 긴 값
 * 최단 거리를 구하는 **bfs** 를 이용하여 현재 육지 좌표 기준 각 육지의 거리를 구한 뒤 max 값 저장
+
+## [15686 치킨 배달](https://www.acmicpc.net/problem/15686)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B15686.java)
+* **ArrayList** 를 이용하여 집과 치킨집 좌표 저장
+* *Combination* 재귀를 통해 치킨집 경우의 수 구한 뒤 *min* 계산
