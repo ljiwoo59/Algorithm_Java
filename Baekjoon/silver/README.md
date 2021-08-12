@@ -40,7 +40,7 @@
 * **Queue** 를 이용하여 **BFS** 구현
 * 좌표의 층은 *r / R*
 * 2차원을 3차원으로 구현해야 하므로 각 층의 제한을 *nxr >= curr[2] \* R && nxr < (curr[2] + 1) \* R* 으로 준다
-* 윗층 아랫층 제한은 각각 *upr < R \* H*, dwr >= 0* 으로 준다
+* 윗층 아랫층 제한은 각각 *upr < R \* H*, *dwr >= 0* 으로 준다
 
 ## [2961 도영이가 만든 맛있는 음식](https://www.acmicpc.net/problem/2961)
 ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/silver/B2961.java)
