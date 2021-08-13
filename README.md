@@ -13,6 +13,9 @@
 * 1987 알파벳
 * 2589 보물섬
 * 15686 치킨 배달
+* 1937 욕심쟁이 판다
+* 1520 내리막 길
+* 10026 적록색약
 
 ### [Silver](https://github.com/ljiwoo59/algorithm_java/tree/master/Baekjoon/silver)
 * 2564 경비원
