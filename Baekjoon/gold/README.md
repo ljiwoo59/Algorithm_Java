@@ -1,8 +1,20 @@
+# Gold 3
+## [1937 욕심쟁이 판다](https://www.acmicpc.net/problem/1937)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B1937.java)
+* **DFS** 이용하여 방문한 구간 값 받아와 누적해 반환
+
+---
+
 # Gold 4
 ## [1987 알파벳](https://www.acmicpc.net/problem/1987)
 ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B1987.java)
 * visit 배열을 이용하여 지나간 캐릭터 값 확인
 * **DFS** 를 이용하여 도달할 수 있는 최장 거리 값 구하기
+
+## [1520 내리막 길](https://www.acmicpc.net/problem/1520)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B1520.java)
+* 단순 **DFS** 이용시 시간 초과가 나므로 방문한 곳은 dp 배열로 값 받아오기
+* 계산한 곳과 안한 곳 차이를 두기위해 dp 배열은 -1로 초기화
 
 ---
 
@@ -67,3 +79,8 @@
 ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B15686.java)
 * **ArrayList** 를 이용하여 집과 치킨집 좌표 저장
 * *Combination* 재귀를 통해 치킨집 경우의 수 구한 뒤 *min* 계산
+
+## [10026 적록색약](https://www.acmicpc.net/problem/10026)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B10026.java)
+* **DFS** 이용해서 붙어있는 지역 하나로 통일
+* 일반인과 색맹 구별용 다른 **DFS** 구현
