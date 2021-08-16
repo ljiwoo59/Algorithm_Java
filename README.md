@@ -39,6 +39,7 @@
 * 7569 토마토
 * 2961 도영이가 만든 맛있는 음식
 * 2002 추월
+* 1074 Z
 
 ## SW Expert Academy
 ### [D4](https://github.com/ljiwoo59/Algorithm_Java/tree/master/SWAcademy/D4)
