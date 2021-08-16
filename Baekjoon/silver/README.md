@@ -53,6 +53,11 @@
 * **Queue** 두개를 이용하여 in 과 out 구현
 * in 을 기준으로 out 과 비교해주면서 추월 차량 계산
 
+## [1074 Z](https://www.acmicpc.net/problem/1074)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/silver/B1074.java)
+* **분할 정복** 알고리즘
+* *n* 이 1 이 될때까지 4분면으로 나누어 어느 위치에 포함되어있는지를 확인
+
 ---
 
 # Silver 2
