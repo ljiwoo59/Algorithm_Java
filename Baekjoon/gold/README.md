@@ -91,3 +91,8 @@
 ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B10026.java)
 * **DFS** 이용해서 붙어있는 지역 하나로 통일
 * 일반인과 색맹 구별용 다른 **DFS** 구현
+
+## [1461 도서관](https://www.acmicpc.net/problem/1461)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B1461.java)
+* **Greedy** 알고리즘을 이용하여 각 음수 배열, 양수 배열의 가장 큰 절대값을 *result* 에 더해주고 M 만큼 *pop*
+* 전체 수 중 max 값은 *result* 에서 빼준다
