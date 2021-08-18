@@ -22,6 +22,7 @@
 * 17135 캐슬 디펜스
 * 1461 도서관
 * 2206 벽 부수고 이동하기
+* 16236 아기 상어
 
 ### [Silver](https://github.com/ljiwoo59/algorithm_java/tree/master/Baekjoon/silver)
 * 2564 경비원
