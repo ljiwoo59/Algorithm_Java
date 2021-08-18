@@ -58,6 +58,18 @@
 * **분할 정복** 알고리즘
 * *n* 이 1 이 될때까지 4분면으로 나누어 어느 위치에 포함되어있는지를 확인
 
+## [2178 미로 탐색](https://www.acmicpc.net/problem/2178)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/silver/B2178.java)
+* **BFS** 를 이용해서 최단 거리 구하기
+
+## [2667 단지번호붙이기](https://www.acmicpc.net/problem/2667)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/silver/B2667.java)
+* **DFS** 를 이용하여 집 개수 세기 및 인접한 영역 모두 방문하여 지우면서 단지 수 세기
+
+## [1992 쿼드트리](https://www.acmicpc.net/problem/1992)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/silver/B1992.java)
+* **분할 정복** 을 이용하여 해당 맵이 통일 하지 않을 시 4분면으로 나누어 통일 다시 확인 반복
+
 ---
 
 # Silver 2
