@@ -1,6 +1,9 @@
 # Algorithm_Java
 
 ## Baekjoon
+### [Platinum](https://github.com/ljiwoo59/Algorithm_Java/tree/master/Baekjoon/platinum)
+* 3025 돌 던지기
+
 ### [Gold](https://github.com/ljiwoo59/algorithm_java/tree/master/Baekjoon/gold)
 * 4358 생태학
 * 14502 연구소
@@ -18,6 +21,7 @@
 * 10026 적록색약
 * 17135 캐슬 디펜스
 * 1461 도서관
+* 2206 벽 부수고 이동하기
 
 ### [Silver](https://github.com/ljiwoo59/algorithm_java/tree/master/Baekjoon/silver)
 * 2564 경비원
@@ -41,6 +45,9 @@
 * 2961 도영이가 만든 맛있는 음식
 * 2002 추월
 * 1074 Z
+* 2178 미로 탐색
+* 2667 단지번호붙이기
+* 1992 쿼드트리
 
 ## SW Expert Academy
 ### [D4](https://github.com/ljiwoo59/Algorithm_Java/tree/master/SWAcademy/D4)
