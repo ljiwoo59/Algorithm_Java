@@ -23,6 +23,12 @@
 * 각 궁수 당 사거리 이하의 최단 거리 적 중 가장 왼쪽 적을 봐야 한다
 * 각 궁수가 같은 적을 볼 수 있기에 죽일 적을 저장하고 모든 궁수의 최단거리 계산 이후 삭제
 
+## [2206 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B2206.java)
+* 2차원 visit 배열을 쓸 경우, 벽을 부수고 갔을 때와 부수지 않고 돌아갔을 때 방문 처리가 중복되어 반례가 생김
+* 3차원 visit 배열을 이용하여, 벽을 부쉈을 때, 부수지 않았을 때의 두가지 방문 배열을 생성
+* **BFS** 를 이용하여 최단 거리 구하기
+
 ---
 
 # Gold 5
