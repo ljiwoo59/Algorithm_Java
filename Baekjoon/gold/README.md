@@ -29,6 +29,12 @@
 * 3차원 visit 배열을 이용하여, 벽을 부쉈을 때, 부수지 않았을 때의 두가지 방문 배열을 생성
 * **BFS** 를 이용하여 최단 거리 구하기
 
+## [16236 아기 상어](https://www.acmicpc.net/problem/16236)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B16236.java)
+* *Fish* 클래스를 만들어 *row, col, dist* 정보 저장 및 **Comparalbe** *implements* 하여 주어진 기준으로 정렬
+* 현재 위치에서 **BFS** 를 이용하여 최단 거리의 물고기들을 저장 및 정렬 (*head* 에 있는 물고기가 주어진 기준 최단 거리 물고기)
+* 더이상 선택할 물고기가 없을 때 까지 반복
+
 ---
 
 # Gold 5
