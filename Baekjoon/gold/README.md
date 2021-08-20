@@ -1,3 +1,13 @@
+# Gold 2
+## [3109 빵집](https://www.acmicpc.net/problem/3109)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B3109.java)
+* **백트래킹**
+* *dx dy* 배열을 오른쪽 위, 오른쪽, 오른쪽 아래 순을 하여 최적의 선택지 부터 확인
+* **DFS** 를 이용하여 목적 열까지 도달할 수 있는 지 확인
+  * 목적지까지 실패하더라도 지나온 자리는 실패한 자리기 때문에 지워주지 않는다
+
+---
+
 # Gold 3
 ## [1937 욕심쟁이 판다](https://www.acmicpc.net/problem/1937)
 ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B1937.java)
@@ -34,6 +44,14 @@
 * *Fish* 클래스를 만들어 *row, col, dist* 정보 저장 및 **Comparable** *implements* 하여 주어진 기준으로 정렬
 * 현재 위치에서 **BFS** 를 이용하여 최단 거리의 물고기들을 저장 및 정렬 (*head* 에 있는 물고기가 주어진 기준 최단 거리 물고기)
 * 더이상 선택할 물고기가 없을 때 까지 반복
+
+## [2580 스도쿠](https://www.acmicpc.net/problem/2580)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B2580.java)
+* **백트래킹**
+* 빈칸인 자리들을 미리 **stack** 에 넣어 스택이 비면 재귀 종료
+* 빈칸 자리에 1 부터 9 까지 시도해 보며 유망성 체크
+  * 행, 열 확인, 3 \* 3 구역 확인
+* 모든 수가 유망하지 않다면 *map* 을 빈칸으로 초기화, 해당 빈칸 정보를 다시 스택에 넣어준다
 
 ---
 
@@ -75,9 +93,9 @@
 ## [2075 N번째 큰 수](https://www.acmicpc.net/problem/2075)
 ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B2075.java)
 * 메모리 제한 때문에 **Priority Queue** 로 구현
-  * *SortedList* 와 다르게 내부에 순서대로 저장되는 것이 아니라 *head* 에 우선순위가 가장 높은 수가 위치한다
+   * *SortedList* 와 다르게 내부에 순서대로 저장되는 것이 아니라 *head* 에 우선순위가 가장 높은 수가 위치한다
 * N 번째 큰 수가 목표기 때문에 큐 사이즈가 N 초과이면 *poll* 을 해주면서 우선순위가 높은 수(제일 작은 수) 를 삭제한다
-  * 삽입이 끝난 후 *head* 에 위치한 수가 정답
+   * 삽입이 끝난 후 *head* 에 위치한 수가 정답
 
 ## [9251 LCS](https://www.acmicpc.net/problem/9251)
 ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B9251.java)
@@ -108,3 +126,27 @@
 ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B1461.java)
 * **Greedy** 알고리즘을 이용하여 각 음수 배열, 양수 배열의 가장 큰 절대값을 *result* 에 더해주고 M 만큼 *pop*
 * 전체 수 중 max 값은 *result* 에서 빼준다
+
+## [12865 평범한 배낭](https://www.acmicpc.net/problem/12865)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B12865.java)
+* **DP** 2차원 배열을 이용
+  * *row* 는 현재까지 고려하는 item index
+  * *col* 은 현재까지 고려하는 bag weight
+  * *row, col* 은 현재까지 고려한 bag weight 에 현재까지 고려한 item 중 넣을 수 있는 최대 값어치
+* **dp[i][j] = Math.max(dp[i - 1][j], dp[i - 1][j - W[i]] + V[i])**
+  * *이전 item 까지 고려했을 때의 최대 값어치 (현재 item 을 보지 않은) **vs** 현재 item 을 넣기 위해 이전 item 을 고려하고 bag weight 가 현재 item 을 넣을 수 있는 최대 무게의 값어치*
+
+## [9663 N-Queen](https://www.acmicpc.net/problem/9663)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B9663.java)
+* **백트래킹**
+* *1차원 배열* 을 이용하여 각 *col index* 당 *row index*를 저장
+  * 한 행에 하나의 퀸만 놓는다
+* 1 부터 N 까지의 *row index* 를 시도해 봄으로서 유망성 체크
+  * 이전 퀸들과 행, 열이 같거나 대각선이면 종료
+
+## [1759 암호 만들기](https://www.acmicpc.net/problem/1759)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B1759.java)
+* 사전 순 출력이므로 알파벳 배열을 미리 정렬
+* **조합** 을 이용하는데, 자음인지 모음인지 확인 후 각각 카운트가 올라가는 재귀 호출
+* 자음이 최소 2개 이상, 모음이 최소 1개 이상일 때만 출력
+
