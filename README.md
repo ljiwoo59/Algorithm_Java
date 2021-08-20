@@ -23,6 +23,11 @@
 * 1461 도서관
 * 2206 벽 부수고 이동하기
 * 16236 아기 상어
+* 12865 평범한 배낭
+* 3109 빵집
+* 9663 N-Queen
+* 1759 암호 만들기
+* 2580 스도쿠
 
 ### [Silver](https://github.com/ljiwoo59/algorithm_java/tree/master/Baekjoon/silver)
 * 2564 경비원
