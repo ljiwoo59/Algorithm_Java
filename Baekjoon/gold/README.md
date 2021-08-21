@@ -53,6 +53,11 @@
   * 행, 열 확인, 3 \* 3 구역 확인
 * 모든 수가 유망하지 않다면 *map* 을 빈칸으로 초기화, 해당 빈칸 정보를 다시 스택에 넣어준다
 
+## [3055 탈출](https://www.acmicpc.net/problem/3055)
+## [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B3055.java)
+* **BFS** 를 이용하여 매 분마다 비버 이동 후, 물 차오르기 구현
+  * 비버가 갈 곳이 없거나 (queue 가 비었거나) 도착지에 도착하면 종료
+
 ---
 
 # Gold 5
