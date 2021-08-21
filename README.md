@@ -28,6 +28,7 @@
 * 9663 N-Queen
 * 1759 암호 만들기
 * 2580 스도쿠
+* 3055 탈출
 
 ### [Silver](https://github.com/ljiwoo59/algorithm_java/tree/master/Baekjoon/silver)
 * 2564 경비원
@@ -56,6 +57,9 @@
 * 1992 쿼드트리
 
 ## SW Expert Academy
+### [D5]()
+* 1247 최적 경로
+
 ### [D4](https://github.com/ljiwoo59/Algorithm_Java/tree/master/SWAcademy/D4)
 * 1210 Ladder1
 * 1218 괄호 짝짓기
