@@ -65,6 +65,7 @@
 * 1218 괄호 짝짓기
 * 1861 정사각형 방
 * 1233 사칙연산 유효성 검사
+* 1223 계산기2
 
 ### [D3](https://github.com/ljiwoo59/algorithm_java/tree/master/SWAcademy/D3)
 * 1289 원재의 메모리 복구하기
