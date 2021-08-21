@@ -19,3 +19,7 @@
 ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/SWAcademy/D4/SW1233.java)
 * 완전 이진 트리 이므로 모든 leaf node 는 숫자, 그 외는 연산자를 가지고 있어야함
 
+## [1223 계산기2](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14nnAaAFACFAYD&categoryId=AV14nnAaAFACFAYD&categoryType=CODE&problemTitle=1223&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/SWAcademy/D4/SW1223.java)
+* **Stack** 을 이용하여 숫자면 바로 후위식에 넣고 연산자면 스택에 들어있는 연산자들과 비교하여 자신보다 같거나 큰 연산자를 후위식에 넣어주고 자신을 스택에 넣는다
+
