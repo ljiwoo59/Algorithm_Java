@@ -155,3 +155,14 @@
 * **조합** 을 이용하는데, 자음인지 모음인지 확인 후 각각 카운트가 올라가는 재귀 호출
 * 자음이 최소 2개 이상, 모음이 최소 1개 이상일 때만 출력
 
+## [9019 DSLR](https://www.acmicpc.net/problem/9019)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B9019.java)
+* **BFS** 를 이용하여 최단 경우의 수 구하기
+* 시도한 *command* 를 출력해야 하기에 현재 숫자와 지금까지의 *command* 를 가지는 객체 생성
+
+## [5015 스타트링크](https://www.acmicpc.net/problem/5014)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B5014.java)
+* **BFS** 를 이용하여 최단 경우의 수 구하기
+* *9019 DSLR* 과 유사한 문제지만 시도한 경로를 출력할 필요가 없음
+
+
