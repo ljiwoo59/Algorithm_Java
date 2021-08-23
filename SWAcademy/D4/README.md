@@ -23,3 +23,6 @@
 ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/SWAcademy/D4/SW1223.java)
 * **Stack** 을 이용하여 숫자면 바로 후위식에 넣고 연산자면 스택에 들어있는 연산자들과 비교하여 자신보다 같거나 큰 연산자를 후위식에 넣어주고 자신을 스택에 넣는다
 
+## [1238 Contact](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15B1cKAKwCFAYD&categoryId=AV15B1cKAKwCFAYD&categoryType=CODE&problemTitle=1238&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1&&&&&&&&&)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/SWAcademy/D4/SW1238.java)
+* **BFS** 를 이용하여 가장 마지막 노드의 제일 큰 값 구하기
