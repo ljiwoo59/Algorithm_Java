@@ -70,6 +70,10 @@
 ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/silver/B1992.java)
 * **분할 정복** 을 이용하여 해당 맵이 통일 하지 않을 시 4분면으로 나누어 통일 다시 확인 반복
 
+## [15661 링크와 스타트](https://www.acmicpc.net/problem/15661)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/silver/B15661.java)
+* *bit* 연산을 이용한 *subset* 구하기
+
 ---
 
 # Silver 2
