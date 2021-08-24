@@ -65,7 +65,7 @@
 * **PriorityQueue** 를 이용하여 간선 가중치 오름차순 정렬
 
 ## [1922 네트워크 연결](https://www.acmicpc.net/problem/1922)
-### [Code]()
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B1922.java)
 * **Kruskal Algorithm**
   * *Union-Find set*
 * **PriorityQueue** 를 이용하여 간선 가중치 오름차순 정렬
