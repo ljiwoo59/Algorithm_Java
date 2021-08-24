@@ -58,6 +58,18 @@
 * **BFS** 를 이용하여 매 분마다 비버 이동 후, 물 차오르기 구현
   * 비버가 갈 곳이 없거나 (queue 가 비었거나) 도착지에 도착하면 종료
 
+## [1197 최소 스패닝 트리](https://www.acmicpc.net/problem/1197)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B1197.java)
+* **Kruskal Algorithm**
+  * *Union-Find set*
+* **PriorityQueue** 를 이용하여 간선 가중치 오름차순 정렬
+
+## [1922 네트워크 연결](https://www.acmicpc.net/problem/1922)
+### [Code]()
+* **Kruskal Algorithm**
+  * *Union-Find set*
+* **PriorityQueue** 를 이용하여 간선 가중치 오름차순 정렬
+
 ---
 
 # Gold 5
