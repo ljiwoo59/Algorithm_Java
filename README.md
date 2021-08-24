@@ -31,6 +31,8 @@
 * 3055 탈출
 * 9019 DSLR
 * 5014 스타트링크
+* 1197 최소 스패닝 트리
+* 1992 네트워크 연결
 
 ### [Silver](https://github.com/ljiwoo59/algorithm_java/tree/master/Baekjoon/silver)
 * 2564 경비원
@@ -70,6 +72,8 @@
 * 1233 사칙연산 유효성 검사
 * 1223 계산기2
 * 1238 Contact
+* 3289 서로소 집합
+* 7465 창용 마을 무리의 개수
 
 ### [D3](https://github.com/ljiwoo59/algorithm_java/tree/master/SWAcademy/D3)
 * 1289 원재의 메모리 복구하기
