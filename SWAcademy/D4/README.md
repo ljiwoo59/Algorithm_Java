@@ -26,3 +26,12 @@
 ## [1238 Contact](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15B1cKAKwCFAYD&categoryId=AV15B1cKAKwCFAYD&categoryType=CODE&problemTitle=1238&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1&&&&&&&&&)
 ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/SWAcademy/D4/SW1238.java)
 * **BFS** 를 이용하여 가장 마지막 노드의 제일 큰 값 구하기
+
+## [3289 서로소 집합](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBJKA6qr2oDFAWr&categoryId=AWBJKA6qr2oDFAWr&categoryType=CODE&problemTitle=3289&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/SWAcademy/D4/SW3289.java)
+* **Union-Find set** 이용
+
+## [7465 창용 마을 무리의 개수](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWngfZVa9XwDFAQU&categoryId=AWngfZVa9XwDFAQU&categoryType=CODE&problemTitle=7465&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/SWAcademy/D4/SW7465.java)
+* **Union-Find set** 이용하여 최상단 부모 찾아주기
+  * ***Union*** 이 끝난 후 전체 정점에 대하여 ***Find*** 를 해주어야 최종 최상단 부모 배열이 된다
