@@ -3,7 +3,7 @@ import java.util.*;
 
 // 백준 1922 네트워크 연결 Gold 4
 
-public class B1992 {
+public class B1922 {
 
 	static class Edge implements Comparable<Edge> {
 		int start, end, weight;
