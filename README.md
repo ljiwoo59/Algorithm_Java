@@ -33,6 +33,9 @@
 * 5014 스타트링크
 * 1197 최소 스패닝 트리
 * 1992 네트워크 연결
+* 1753 최단 경로
+* 1916 최소 비용 구하기
+* 4485 녹색 옷 입은 애가 젤다지?
 
 ### [Silver](https://github.com/ljiwoo59/algorithm_java/tree/master/Baekjoon/silver)
 * 2564 경비원
@@ -74,6 +77,7 @@
 * 1238 Contact
 * 3289 서로소 집합
 * 7465 창용 마을 무리의 개수
+* 1251 하나로
 
 ### [D3](https://github.com/ljiwoo59/algorithm_java/tree/master/SWAcademy/D3)
 * 1289 원재의 메모리 복구하기
