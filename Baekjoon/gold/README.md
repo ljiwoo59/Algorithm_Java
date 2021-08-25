@@ -190,3 +190,8 @@
 ## [1916 최소 비용 구하기](https://www.acmicpc.net/problem/1916)
 ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B1916.java)
 * **Dijkstra Algorithm**
+
+## [16234 인구 이동](https://www.acmicpc.net/problem/16234)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B16234.java)
+* **DFS** 를 이용해서 각 연합을 한번에 구하고
+* 연합 당 저장 해놓은 인구 수 넣어준다
