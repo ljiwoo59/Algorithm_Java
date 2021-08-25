@@ -70,6 +70,11 @@
   * *Union-Find set*
 * **PriorityQueue** 를 이용하여 간선 가중치 오름차순 정렬
 
+## [4485 녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B4485.java)
+* **Dijkstra Algorithm**
+* **PriorityQueue** 를 이용하여 사방탐색으로 갈 수 있는 경로의 **최소 누적 비용**을 오름차순 정렬
+
 ---
 
 # Gold 5
@@ -177,4 +182,11 @@
 * **BFS** 를 이용하여 최단 경우의 수 구하기
 * *9019 DSLR* 과 유사한 문제지만 시도한 경로를 출력할 필요가 없음
 
+## [1753 최단 경로](https://www.acmicpc.net/problem/1753)
+### [Code : 기존 방식](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B1753.java)
+### [Code2 : PriorityQueue](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B1753_2.java)
+* **Dijkstra Algorithm**
 
+## [1916 최소 비용 구하기](https://www.acmicpc.net/problem/1916)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B1916.java)
+* **Dijkstra Algorithm**
