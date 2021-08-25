@@ -35,3 +35,8 @@
 ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/SWAcademy/D4/SW7465.java)
 * **Union-Find set** 이용하여 최상단 부모 찾아주기
   * ***Union*** 이 끝난 후 전체 정점에 대하여 ***Find*** 를 해주어야 최종 최상단 부모 배열이 된다
+
+## [1251 하나로](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15StKqAQkCFAYD&categoryId=AV15StKqAQkCFAYD&categoryType=CODE&problemTitle=1251&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/SWAcademy/D4/SW1251.java)
+* **Kruskal Algorithm**
+* 각 섬에 대한 거리 계산 후 **오름차순**으로 정렬
