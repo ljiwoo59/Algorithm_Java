@@ -195,3 +195,8 @@
 ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B16234.java)
 * **DFS** 를 이용해서 각 연합을 한번에 구하고
 * 연합 당 저장 해놓은 인구 수 넣어준다
+
+## [5430 AC](https://www.acmicpc.net/problem/5430)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B5430.java)
+* *문자열*
+* 뒤집기 함수에 따라 *poll* 또는 *pollLast* 를 해준다
