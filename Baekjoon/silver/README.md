@@ -74,6 +74,11 @@
 ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/silver/B15661.java)
 * *bit* 연산을 이용한 *subset* 구하기
 
+## [2447 별 찍기 - 10](https://www.acmicpc.net/problem/2447)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/silver/B2447.java)
+* **분할 정복**
+* *2 차원 char 배열* 을 이용해서 처음 ' '로 초기화 후 9칸으로 분할해가며 1, 1 이 아닐때만 '\*' 넣어준다
+
 ---
 
 # Silver 2
