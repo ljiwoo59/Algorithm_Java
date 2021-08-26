@@ -64,6 +64,7 @@
 * 2667 단지번호붙이기
 * 1992 쿼드트리
 * 15661 링크와 스타트
+* 2447 별 찍기 - 10
 
 ## SW Expert Academy
 ### [D5](https://github.com/ljiwoo59/Algorithm_Java/tree/master/SWAcademy/D5)
