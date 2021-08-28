@@ -200,3 +200,9 @@
 ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B5430.java)
 * *문자열*
 * 뒤집기 함수에 따라 *poll* 또는 *pollLast* 를 해준다
+
+## [1107 리모컨](https://www.acmicpc.net/problem/1107)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B1107.java)
+* **완전 탐색**
+* 숫자 버튼을 누르지 않았을 때와 눌렀을 때를 비교
+* 눌렀을 시 중복 순열로 최대 7자리까지 생성
