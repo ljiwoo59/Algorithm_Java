@@ -79,6 +79,14 @@
 * **분할 정복**
 * *2 차원 char 배열* 을 이용해서 처음 ' '로 초기화 후 9칸으로 분할해가며 1, 1 이 아닐때만 '\*' 넣어준다
 
+## [17609 회문](https://www.acmicpc.net/problem/17609)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/silver/B17609.java)
+* *left* 와 *right* 변수를 이용하여  *left* 가 *right* 보다 작거나 같을 때까지 문자 배열 비교
+* 문자가 다를 시 두 가지 경우로 문자 배열 비교 함수 호출
+  * *left* 를 하나 넘긴 상태에서 (left 의 문자를 지운다고 생각) *right* 와 비교
+  * *right* 를 하나 넘긴 상태에서 (right 의 문자를 지운다고 생각) *left* 와 비교
+  * 만약 둘중 하나라도 문자 배열이 같으면 유사 회문, 아니면 회문이 아님
+
 ---
 
 # Silver 2
