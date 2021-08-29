@@ -39,6 +39,7 @@
 * 16234 인구 이동
 * 5430 AC
 * 1107 리모컨
+* 1261 알고스팟
 
 ### [Silver](https://github.com/ljiwoo59/algorithm_java/tree/master/Baekjoon/silver)
 * 2564 경비원
@@ -67,6 +68,7 @@
 * 1992 쿼드트리
 * 15661 링크와 스타트
 * 2447 별 찍기 - 10
+* 17609 회문
 
 ## SW Expert Academy
 ### [D5](https://github.com/ljiwoo59/Algorithm_Java/tree/master/SWAcademy/D5)
