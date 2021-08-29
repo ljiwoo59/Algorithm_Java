@@ -75,6 +75,11 @@
 * **Dijkstra Algorithm**
 * **PriorityQueue** 를 이용하여 사방탐색으로 갈 수 있는 경로의 **최소 누적 비용**을 오름차순 정렬
 
+## [1261 알고스팟](https://www.acmicpc.net/problem/1261)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B1261.java)
+* **Dijkstra Algorithm**
+* **PriorityQueue** 를 이용하여 사방탐색으로 갈 수 있는 경로의 **최소 누정 비용**을 오름차순 정렬
+
 ---
 
 # Gold 5
