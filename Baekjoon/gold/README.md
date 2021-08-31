@@ -211,3 +211,7 @@
 * **완전 탐색**
 * 숫자 버튼을 누르지 않았을 때와 눌렀을 때를 비교
 * 눌렀을 시 중복 순열로 최대 7자리까지 생성
+
+# [9935 문자열 폭발](https://www.acmicpc.net/problem/9935)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B9935.java)
+* **Stack** 을 이용하여 문자를 하나씩 *push* 해주고 마지막으로 넣은 문자가 폭발 문자의 마지막 문자이면 검사를 통해 폭발 여부 확인
