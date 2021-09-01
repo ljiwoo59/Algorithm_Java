@@ -87,6 +87,12 @@
   * *right* 를 하나 넘긴 상태에서 (right 의 문자를 지운다고 생각) *left* 와 비교
   * 만약 둘중 하나라도 문자 배열이 같으면 유사 회문, 아니면 회문이 아님
 
+## [1629 곱셈](https://www.acmicpc.net/problem/1629)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/silver/B1629.java)
+* **분할 정복**
+* 반으로 나누어 곱셈
+* 수가 커지기 때문에 짝수 일 경우 *(half \* half) % C*, 홀수 일 경우 *((half \* half) % C \* full) % C*
+
 ---
 
 # Silver 2
