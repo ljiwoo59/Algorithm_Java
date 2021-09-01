@@ -70,6 +70,7 @@
 * 15661 링크와 스타트
 * 2447 별 찍기 - 10
 * 17609 회문
+* 1629 곱셈
 
 ## SW Expert Academy
 ### [D5](https://github.com/ljiwoo59/Algorithm_Java/tree/master/SWAcademy/D5)
