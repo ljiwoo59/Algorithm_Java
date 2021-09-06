@@ -80,6 +80,11 @@
 * **Dijkstra Algorithm**
 * **PriorityQueue** 를 이용하여 사방탐색으로 갈 수 있는 경로의 **최소 누정 비용**을 오름차순 정렬
 
+## [5052 전화번호 목록](https://www.acmicpc.net/problem/5052)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B5052.java)
+* String 의 정렬을 이용하면 접두어 정렬 순이 된다
+* String 의 *startsWith* 를 사용하여 접두어에 위치하면 바로 종료
+
 ---
 
 # Gold 5
@@ -219,3 +224,9 @@
 # [14891 톱니바퀴](https://www.acmicpc.net/problem/14891)
 ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B14891.java)
 * **DFS** 를 이용하여 양옆 톱니바퀴 이동
+
+# [1967 트리의 지름](https://www.acmicpc.net/problem/1967)
+## [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B1967.java)
+* **DFS** 를 이용하여 루트(1) 에서 가장 먼 리프노드를 찾는다
+* **DFS** 를 이용하여 해당 리프노드에서 가장 먼 리프노드를 찾는다
+* 인접행렬을 이용할 경우 메모리 초과가 뜨니 *인접리스트*를 이용한다
