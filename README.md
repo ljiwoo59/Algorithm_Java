@@ -42,6 +42,8 @@
 * 1261 알고스팟
 * 9935 문자열 폭발
 * 14891 톱니바퀴
+* 1967 트리의 지름
+* 5052 전화번호 목록
 
 ### [Silver](https://github.com/ljiwoo59/algorithm_java/tree/master/Baekjoon/silver)
 * 2564 경비원
