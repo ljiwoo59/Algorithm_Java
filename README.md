@@ -44,6 +44,7 @@
 * 14891 톱니바퀴
 * 1967 트리의 지름
 * 5052 전화번호 목록
+* 17471 게리맨더링
 
 ### [Silver](https://github.com/ljiwoo59/algorithm_java/tree/master/Baekjoon/silver)
 * 2564 경비원
@@ -74,6 +75,7 @@
 * 2447 별 찍기 - 10
 * 17609 회문
 * 1629 곱셈
+* 20055 컨베이어 벨트 위의 로봇
 
 ## SW Expert Academy
 ### [D5](https://github.com/ljiwoo59/Algorithm_Java/tree/master/SWAcademy/D5)
