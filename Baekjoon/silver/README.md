@@ -93,6 +93,11 @@
 * 반으로 나누어 곱셈
 * 수가 커지기 때문에 짝수 일 경우 *(half \* half) % C*, 홀수 일 경우 *((half \* half) % C \* full) % C*
 
+## [20055 컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/silver/B20055.java)
+* **LinkedList** 를 이용하여 벨트의 회전 구현
+* 벨트의 각 위치는 객체로 만들어 관리: robot 유무, 내구도
+
 ---
 
 # Silver 2
