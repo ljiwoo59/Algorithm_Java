@@ -10,3 +10,8 @@
   * **"^\\\\.|\\\\.$"** : 시작이 . 이거나 끝이 . 인 패턴
      * | 로 or 표현, ^ 는 시작, $ 는 끝 
 
+## [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Programmers/2021Kakao/ranking.java)
+* 4차원 배열을 이용하여 각각 종류의 점수를 저장
+  * 접근이 빠른 *ArrayList* 사용
+* 효율성 개선 필요***
