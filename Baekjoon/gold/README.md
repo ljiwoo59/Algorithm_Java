@@ -236,3 +236,9 @@
 * **조합**을 이용하여 한 구역에 가능한 구역 조합 구하기 (*N / 2* 개수까지 구한다)
   * 6C2 나 6C4 나 똑같다
 * **DFS**를 이용하여 고른 구역 조합이 인접해 있는지 체크 및 총 인구 수 구하기 
+
+# [2666 벽장문의 이동](https://www.acmicpc.net/problem/2666)
+## [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B2666.java)
+* 벽장문을 여는 방법은 2가지
+* 양 끝인 경우, 제일 가까운 벽장문 처리
+* 아닌 경우, 2가지를 *재귀*를 이용하여 시도
