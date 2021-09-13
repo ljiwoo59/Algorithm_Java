@@ -45,6 +45,7 @@
 * 1967 트리의 지름
 * 5052 전화번호 목록
 * 17471 게리맨더링
+* 2666 벽장문의 이동
 
 ### [Silver](https://github.com/ljiwoo59/algorithm_java/tree/master/Baekjoon/silver)
 * 2564 경비원
@@ -111,6 +112,7 @@
 ## Programmers
 ### [2021 KAKAO BLIND RECRUITMENT](https://github.com/ljiwoo59/Algorithm_Java/tree/master/Programmers/2021Kakao)
 * 신규 아이디 추천
+* 순위 검색
 
 ### [2020 KAKAO BLIND RECRUITMENT](https://github.com/ljiwoo59/Algorithm_Java/tree/master/Programmers/2020Kakao)
 * 문자열 압축
