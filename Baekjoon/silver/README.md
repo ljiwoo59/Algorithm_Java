@@ -98,6 +98,13 @@
 * **LinkedList** 를 이용하여 벨트의 회전 구현
 * 벨트의 각 위치는 객체로 만들어 관리: robot 유무, 내구도
 
+## [1149 RGB 거리](https://www.acmicpc.net/problem/1149)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/silver/B1149.java)
+* **DP** 를 이용하여 각 색상 선택당 경우의 수를 합산하여 저장
+  * R 선택시 이전 집까지의 경우 중 마지막 선택이 G 인 경우와 B 인경우
+  * G 선택시 R 인 경우와 B 인 경우
+  * B 선택시 R 인 경우와 G 인 경우
+
 ---
 
 # Silver 2
