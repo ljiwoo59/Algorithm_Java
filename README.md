@@ -46,6 +46,7 @@
 * 5052 전화번호 목록
 * 17471 게리맨더링
 * 2666 벽장문의 이동
+* 1939 중량 제한
 
 ### [Silver](https://github.com/ljiwoo59/algorithm_java/tree/master/Baekjoon/silver)
 * 2564 경비원
@@ -77,6 +78,7 @@
 * 17609 회문
 * 1629 곱셈
 * 20055 컨베이어 벨트 위의 로봇
+* 1149 RGB 거리
 
 ## SW Expert Academy
 ### [D5](https://github.com/ljiwoo59/Algorithm_Java/tree/master/SWAcademy/D5)
