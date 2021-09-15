@@ -87,7 +87,7 @@
 
 ## [1939 중량 제한](https://www.acmicpc.net/problem/1939)
 ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B1939.java)
-* ***Binary Search** 를 이용하여 경우의 수 줄이기
+* ***Binary Search*** 를 이용하여 경우의 수 줄이기
   * min = 1, max = 다리의 최대 중량, mid = (max + min) / 2
   * 이진 탐색을 반복하며 min 또는 max 를 업데이트 해준다
 * **BFS** 를 이용하여 시작 섬에서 도착섬 탐색
