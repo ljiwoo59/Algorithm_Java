@@ -85,6 +85,16 @@
 * String 의 정렬을 이용하면 접두어 정렬 순이 된다
 * String 의 *startsWith* 를 사용하여 접두어에 위치하면 바로 종료
 
+## [1939 중량 제한](https://www.acmicpc.net/problem/1939)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B1939.java)
+* ***Binary Search** 를 이용하여 경우의 수 줄이기
+  * min = 1, max = 다리의 최대 중량, mid = (max + min) / 2
+  * 이진 탐색을 반복하며 min 또는 max 를 업데이트 해준다
+* **BFS** 를 이용하여 시작 섬에서 도착섬 탐색
+  * 주어진 mid 보다 다리의 중량이 작아 도착섬에 도달하지 못하면 max = mid - 1 로 업데이트
+  * 주어진 mid 에 도착섬에 도달하면 min = mid + 1 로 업데이트
+
+
 ---
 
 # Gold 5
@@ -217,28 +227,28 @@
 * 숫자 버튼을 누르지 않았을 때와 눌렀을 때를 비교
 * 눌렀을 시 중복 순열로 최대 7자리까지 생성
 
-# [9935 문자열 폭발](https://www.acmicpc.net/problem/9935)
+## [9935 문자열 폭발](https://www.acmicpc.net/problem/9935)
 ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B9935.java)
 * **Stack** 을 이용하여 문자를 하나씩 *push* 해주고 마지막으로 넣은 문자가 폭발 문자의 마지막 문자이면 검사를 통해 폭발 여부 확인
 
-# [14891 톱니바퀴](https://www.acmicpc.net/problem/14891)
+## [14891 톱니바퀴](https://www.acmicpc.net/problem/14891)
 ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B14891.java)
 * **DFS** 를 이용하여 양옆 톱니바퀴 이동
 
-# [1967 트리의 지름](https://www.acmicpc.net/problem/1967)
-## [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B1967.java)
+## [1967 트리의 지름](https://www.acmicpc.net/problem/1967)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B1967.java)
 * **DFS** 를 이용하여 루트(1) 에서 가장 먼 리프노드를 찾는다
 * **DFS** 를 이용하여 해당 리프노드에서 가장 먼 리프노드를 찾는다
 * 인접행렬을 이용할 경우 메모리 초과가 뜨니 *인접리스트*를 이용한다
 
-# [17471 게리맨더링](https://www.acmicpc.net/problem/17471)
-## [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B17471.java)
+## [17471 게리맨더링](https://www.acmicpc.net/problem/17471)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B17471.java)
 * **조합**을 이용하여 한 구역에 가능한 구역 조합 구하기 (*N / 2* 개수까지 구한다)
   * 6C2 나 6C4 나 똑같다
 * **DFS**를 이용하여 고른 구역 조합이 인접해 있는지 체크 및 총 인구 수 구하기 
 
-# [2666 벽장문의 이동](https://www.acmicpc.net/problem/2666)
-## [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B2666.java)
+## [2666 벽장문의 이동](https://www.acmicpc.net/problem/2666)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B2666.java)
 * 벽장문을 여는 방법은 2가지
 * 양 끝인 경우, 제일 가까운 벽장문 처리
 * 아닌 경우, 2가지를 *재귀*를 이용하여 시도
