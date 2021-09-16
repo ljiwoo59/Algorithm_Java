@@ -40,3 +40,9 @@
 ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/SWAcademy/D4/SW1251.java)
 * **Kruskal Algorithm**
 * 각 섬에 대한 거리 계산 후 **오름차순**으로 정렬
+
+## [3124 최소 스패닝 트리](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV_mSnmKUckDFAWb&categoryId=AV_mSnmKUckDFAWb&categoryType=CODE&problemTitle=3124&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1&&&&&&&&&)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/SWAcademy/D4/SW3124.java)
+* **Kruskal Algorithm**
+* *ProirityQueue* 를 이용하여 가중치의 **오름차순**으로 정렬
+* *Union-Find set* 사용
