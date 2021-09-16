@@ -94,6 +94,10 @@
   * 주어진 mid 보다 다리의 중량이 작아 도착섬에 도달하지 못하면 max = mid - 1 로 업데이트
   * 주어진 mid 에 도착섬에 도달하면 min = mid + 1 로 업데이트
 
+## [1600 말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B1600.java)
+* **3차원 visit 배열**을 사용하여 각 남은 점프 당 방문 체크
+* **BFS**를 사용하여 도착점까지의 최단 거리
 
 ---
 
@@ -252,3 +256,9 @@
 * 벽장문을 여는 방법은 2가지
 * 양 끝인 경우, 제일 가까운 벽장문 처리
 * 아닌 경우, 2가지를 *재귀*를 이용하여 시도
+
+## [2636 치즈](https://www.acmicpc.net/problem/2636)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B2636.java)
+* **BFS** 를 이용하여 공기인 경우 *큐*에 넣어준다
+  * 다음 탐색이 공기이면 *큐*에 넣어주고
+  * 치즈 이면 공기로 변환 후, 총 치즈 개수를 줄인다
