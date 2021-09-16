@@ -47,6 +47,8 @@
 * 17471 게리맨더링
 * 2666 벽장문의 이동
 * 1939 중량 제한
+* 1600 말이 되고픈 원숭이
+* 2636 치즈
 
 ### [Silver](https://github.com/ljiwoo59/algorithm_java/tree/master/Baekjoon/silver)
 * 2564 경비원
@@ -79,6 +81,7 @@
 * 1629 곱셈
 * 20055 컨베이어 벨트 위의 로봇
 * 1149 RGB 거리
+* 1463 1로 만들기
 
 ## SW Expert Academy
 ### [D5](https://github.com/ljiwoo59/Algorithm_Java/tree/master/SWAcademy/D5)
@@ -94,6 +97,7 @@
 * 3289 서로소 집합
 * 7465 창용 마을 무리의 개수
 * 1251 하나로
+* 3124 최소 스패닝 트리
 
 ### [D3](https://github.com/ljiwoo59/algorithm_java/tree/master/SWAcademy/D3)
 * 1289 원재의 메모리 복구하기
