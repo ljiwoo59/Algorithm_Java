@@ -148,6 +148,11 @@
 * **Queue** 를 이용하여 회전 구현
 * 1차원 배열을 다시 2차원으로 저장
 
+## [1463 1로 만들기](https://www.acmicpc.net/problem/1463)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/silver/B1463.java)
+* **DP**
+* 숫자 까지의 최소 경우의 수를 배열에 저장
+
 ---
 
 # Silver 4
