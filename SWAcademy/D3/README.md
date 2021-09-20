@@ -40,3 +40,8 @@
 ## [5215 햄버거 다이어트](https://swexpertacademy.com/main/code/problem/problemDetail.do)
 ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/SWAcademy/D3/SW5215.java)
 * **부분집합** 알고리즘을 이용하여 총 경우의 수를 구해 처리
+
+## [3307 최장 증가 부분 수열](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBOKg-a6l0DFAWr&categoryId=AWBOKg-a6l0DFAWr&categoryType=CODE&problemTitle=3307&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1&&&&&&&&&)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/SWAcademy/D3/SW3307.java)
+* **DP**
+* LIS
