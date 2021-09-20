@@ -6,12 +6,23 @@
 * **DFS** 를 이용하여 목적 열까지 도달할 수 있는 지 확인
   * 목적지까지 실패하더라도 지나온 자리는 실패한 자리기 때문에 지워주지 않는다
 
+## [17472 다리 만들기 2](https://www.acmicpc.net/problem/17472)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B17472.java)
+* **DFS** 를 이용하여 섬마다 번호 붙이기
+* **BFS** 를 이용하여 각 섬에서 다른 섬 까지의 다리 시도
+* **Kruskal** 을 이용하여 모든 섬을 연결하는 다리 길이의 최소값 구하기
+
 ---
 
 # Gold 3
 ## [1937 욕심쟁이 판다](https://www.acmicpc.net/problem/1937)
 ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B1937.java)
 * **DFS** 이용하여 방문한 구간 값 받아와 누적해 반환
+
+## [1941 소문난 칠공주](https://www.acmicpc.net/problem/1941)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B1941.java)
+* **조합**을 이용하여 이다솜파가 4개 이상인 조합 구하기
+* **DFS** 를 이용하여 연결 확인
 
 ---
 
@@ -98,6 +109,11 @@
 ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B1600.java)
 * **3차원 visit 배열**을 사용하여 각 남은 점프 당 방문 체크
 * **BFS**를 사용하여 도착점까지의 최단 거리
+
+## [14002 가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B14002.java)
+* **DP**
+* LIS
 
 ---
 
@@ -262,3 +278,7 @@
 * **BFS** 를 이용하여 공기인 경우 *큐*에 넣어준다
   * 다음 탐색이 공기이면 *큐*에 넣어주고
   * 치즈 이면 공기로 변환 후, 총 치즈 개수를 줄인다
+
+## [14503 로봇 청소기](https://www.acmicpc.net/problem/14503)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B14503.java)
+* 단순 구현
