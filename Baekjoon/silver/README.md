@@ -105,6 +105,20 @@
   * G 선택시 R 인 경우와 B 인 경우 중 작은 값
   * B 선택시 R 인 경우와 G 인 경우 중 작은 값
 
+## [9205 맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/silver/B9205.java)
+* **플로이드-와샬**
+* 각 정점에서 정점 당 필요 맥주병 수 배열 만들기
+* 경유지는 무조건 1 <= k <= N (편의점)
+* 출발지는 0 <= i <= N (집과 편의점)
+* 도착지는 1 <= k <= N + 1 (편의점과 페스티벌)
+* 출발지에서 경유지, 경유지에서 도착지까지 드는 맥주병 수가 각 20병 이하 일때 기존 배열 업데이트
+
+## [11057 오르막 수](https://www.acmicpc.net/problem/11057)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/silver/B11057.java)
+* **DP**
+* 수의 길이와 해당 자리에 올수 있는 수를 저장하는 2차원 배열
+
 ---
 
 # Silver 2
