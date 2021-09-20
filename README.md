@@ -49,6 +49,10 @@
 * 1939 중량 제한
 * 1600 말이 되고픈 원숭이
 * 2636 치즈
+* 14002 가장 긴 증가하는 부분 수열 4
+* 14503 로봇 청소기
+* 17472 다리 만들기 2
+* 1941 소문난 칠공주
 
 ### [Silver](https://github.com/ljiwoo59/algorithm_java/tree/master/Baekjoon/silver)
 * 2564 경비원
@@ -82,6 +86,8 @@
 * 20055 컨베이어 벨트 위의 로봇
 * 1149 RGB 거리
 * 1463 1로 만들기
+* 11057 오르막 수
+* 9205 맥주 마시면서 걸어가기
 
 ## SW Expert Academy
 ### [D5](https://github.com/ljiwoo59/Algorithm_Java/tree/master/SWAcademy/D5)
@@ -109,6 +115,7 @@
 * 1228 암호문 1
 * 9229 한빈이와 Spot Mart
 * 5215 햄버거 다이어트
+* 3307 최장 증가 부분 수열
 
 ### [D2](https://github.com/ljiwoo59/algorithm_java/tree/master/SWAcademy/D2)
 * 1204 최빈수 구하기
