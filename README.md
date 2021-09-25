@@ -3,6 +3,8 @@
 ## Baekjoon
 ### [Platinum](https://github.com/ljiwoo59/Algorithm_Java/tree/master/Baekjoon/platinum)
 * 3025 돌 던지기
+* 1786 찾기
+* 14003 가장 긴 증가하는 부분 수열 5
 
 ### [Gold](https://github.com/ljiwoo59/algorithm_java/tree/master/Baekjoon/gold)
 * 4358 생태학
@@ -53,6 +55,8 @@
 * 14503 로봇 청소기
 * 17472 다리 만들기 2
 * 1941 소문난 칠공주
+* 1647 도시 분할 계획
+* 17144 미세먼지 안녕!
 
 ### [Silver](https://github.com/ljiwoo59/algorithm_java/tree/master/Baekjoon/silver)
 * 2564 경비원
@@ -129,6 +133,9 @@
 
 ### [2020 KAKAO BLIND RECRUITMENT](https://github.com/ljiwoo59/Algorithm_Java/tree/master/Programmers/2020Kakao)
 * 문자열 압축
+
+## [JUNGOL]()
+* 1681 해밀턴 순환회로
 
 ---
 # [Concepts](https://github.com/ljiwoo59/Algorithm_Study)
