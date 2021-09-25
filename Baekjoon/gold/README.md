@@ -113,7 +113,17 @@
 ## [14002 가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002)
 ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B14002.java)
 * **DP**
-* LIS
+* **LIS**
+
+## [1647 도시 분할 계획](https://www.acmicpc.net/problem/1647)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B1647.java)
+* **MST**
+* 최소 신장 트리 완성 후 제일 큰 가중치 빼기
+
+## [17144 미세먼지 안녕!](https://www.acmicpc.net/problem/17144)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B17144.java)
+* *tmp 배열*을 이용하여 미세먼지 확산 저장
+* *재귀*를 사용하여 공기 순환 구현
 
 ---
 
