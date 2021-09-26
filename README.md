@@ -57,6 +57,7 @@
 * 1941 소문난 칠공주
 * 1647 도시 분할 계획
 * 17144 미세먼지 안녕!
+* 2573 빙산
 
 ### [Silver](https://github.com/ljiwoo59/algorithm_java/tree/master/Baekjoon/silver)
 * 2564 경비원
