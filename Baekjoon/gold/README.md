@@ -125,6 +125,19 @@
 * *tmp 배열*을 이용하여 미세먼지 확산 저장
 * *재귀*를 사용하여 공기 순환 구현
 
+## [2573 빙산](https://www.acmicpc.net/problem/2573)
+### [Code1](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B2573.java)
+* 시간초과....WHY?
+* *Ice* 객체를 만들어 리스트에 저장
+* 리스트가 빌때 까지 loop
+  * 한번에 녹이기 위해 remove 배열에 추가
+  * dfs 를 1회 수행하여 한 덩이인지를 판별
+### [Code2](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B2573_2.java)
+* 빙산을 저장하지 않고 바다 관점으로 접근
+* 파싱받을 때 빙산 개수 세기
+* 빙산이 0이 될때까지 loop
+  * 바다를 큐에 저장하며 주위에 빙산이 있으면 높이 낮히기 
+
 ---
 
 # Gold 5
