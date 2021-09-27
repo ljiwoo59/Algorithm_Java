@@ -305,3 +305,9 @@
 ## [14503 로봇 청소기](https://www.acmicpc.net/problem/14503)
 ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B14503.java)
 * 단순 구현
+
+## [9084 동전](https://www.acmicpc.net/problem/9084)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B9084.java)
+* **DP**
+* 각 동전 금액으로 목적 금액까지의 경우의 수를 누적
+* dp\[현재 목적 금액] += dp\[현재 목적 금액에서 현재 동전금액을 뺐을 때의 경우의 수]
