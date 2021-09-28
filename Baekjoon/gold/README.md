@@ -1,3 +1,12 @@
+# Gold 1
+## [11401 이항 계수 3](https://www.acmicpc.net/problem/11401)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B11401.java)
+* **페르마의 소정리**
+  * a % p 의 역원은 pow(a, p - 2)
+* **이진 탐색**
+
+---
+
 # Gold 2
 ## [3109 빵집](https://www.acmicpc.net/problem/3109)
 ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B3109.java)
