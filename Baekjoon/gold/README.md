@@ -311,3 +311,11 @@
 * **DP**
 * 각 동전 금액으로 목적 금액까지의 경우의 수를 누적
 * dp\[현재 목적 금액] += dp\[현재 목적 금액에서 현재 동전금액을 뺐을 때의 경우의 수]
+
+## [17070 파이프 옮기기 1](https://www.acmicpc.net/problem/17070)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B17070.java)
+* **DP**
+* 가로, 세로, 대각선 일때의 dp 3차원 배열
+  * 가로는 가로 + 대각선
+  * 세로는 세로 + 대각선
+  * 대각선은 가로 + 세로 + 대각선
