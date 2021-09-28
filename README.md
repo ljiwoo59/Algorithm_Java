@@ -59,6 +59,7 @@
 * 17144 미세먼지 안녕!
 * 2573 빙산
 * 9084 동전
+* 17070 파이프 옮기기 1
 
 ### [Silver](https://github.com/ljiwoo59/algorithm_java/tree/master/Baekjoon/silver)
 * 2564 경비원
