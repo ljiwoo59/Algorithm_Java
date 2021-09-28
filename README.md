@@ -60,6 +60,7 @@
 * 2573 빙산
 * 9084 동전
 * 17070 파이프 옮기기 1
+* 11401 이항 계수 3
 
 ### [Silver](https://github.com/ljiwoo59/algorithm_java/tree/master/Baekjoon/silver)
 * 2564 경비원
