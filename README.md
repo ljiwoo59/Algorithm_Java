@@ -61,6 +61,7 @@
 * 9084 동전
 * 17070 파이프 옮기기 1
 * 11401 이항 계수 3
+* 1194 달이 차오른다, 가자.
 
 ### [Silver](https://github.com/ljiwoo59/algorithm_java/tree/master/Baekjoon/silver)
 * 2564 경비원
@@ -112,6 +113,7 @@
 * 7465 창용 마을 무리의 개수
 * 1251 하나로
 * 3124 최소 스패닝 트리
+* 5643 키 순서
 
 ### [D3](https://github.com/ljiwoo59/algorithm_java/tree/master/SWAcademy/D3)
 * 1289 원재의 메모리 복구하기
