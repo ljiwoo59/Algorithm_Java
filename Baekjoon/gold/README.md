@@ -5,6 +5,15 @@
   * a % p 의 역원은 pow(a, p - 2)
 * **이진 탐색**
 
+## [1194 달이 차오른다, 가자.](https://www.acmicpc.net/problem/1194)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B1194.java)
+* *3차원 visit 배열*을 이용하여 키를 드는 가짓 수 마다 처리
+  * 키를 들고 왔던 길을 되돌아가야 할 수 있으므로
+* **비트마스킹**을 이용하여 들고 있는 키의 경우의 수 처리
+  * 총 6가지 키가 있으므로 *1<<6*
+  * 키를 집으면 **|** 연산으로 처리
+  * 문과 비교할 때는 **&** 연산으로 처리
+
 ---
 
 # Gold 2
