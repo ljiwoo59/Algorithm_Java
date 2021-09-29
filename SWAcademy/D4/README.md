@@ -46,3 +46,10 @@
 * **Kruskal Algorithm**
 * *ProirityQueue* 를 이용하여 가중치의 **오름차순**으로 정렬
 * *Union-Find set* 사용
+
+## [5643 키 순서](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXQsLWKd5cDFAUo)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/SWAcademy/D4/SW5643.java)
+* **Floyd-Warshall Algorithm**
+  * 한 정점에서 다른 정점까지 갈 수 있으면 1로 처리
+* 양방향으로 바라보았을 때 둘 다 연결되어 있지 않다면 해당 정점과 연관되지 않은 정점이 있다는 것
+  * 키를 알 수 없음
