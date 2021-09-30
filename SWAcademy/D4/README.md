@@ -53,3 +53,8 @@
   * 한 정점에서 다른 정점까지 갈 수 있으면 1로 처리
 * 양방향으로 바라보았을 때 둘 다 연결되어 있지 않다면 해당 정점과 연관되지 않은 정점이 있다는 것
   * 키를 알 수 없음
+
+## [1249 보급로](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15QRX6APsCFAYD&categoryId=AV15QRX6APsCFAYD&categoryType=CODE&problemTitle=1249&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/SWAcademy/D4/SW1249.java)
+* **Dijkstra**
+* **우선순위큐**
