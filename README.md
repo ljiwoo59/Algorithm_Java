@@ -99,6 +99,9 @@
 * 9205 맥주 마시면서 걸어가기
 
 ## SW Expert Academy
+### [모의 역량테스트](https://github.com/ljiwoo59/Algorithm_Java/tree/master/SWAcademy/Prac)
+* 1953 탈주범 검거
+
 ### [D5](https://github.com/ljiwoo59/Algorithm_Java/tree/master/SWAcademy/D5)
 * 1247 최적 경로
 
@@ -114,6 +117,7 @@
 * 1251 하나로
 * 3124 최소 스패닝 트리
 * 5643 키 순서
+* 1249 보급로
 
 ### [D3](https://github.com/ljiwoo59/algorithm_java/tree/master/SWAcademy/D3)
 * 1289 원재의 메모리 복구하기
@@ -133,6 +137,10 @@
 * 2001 파리 퇴치
 
 ## Programmers
+### [연습](https://github.com/ljiwoo59/Algorithm_Java/tree/master/Programmers/Prac)
+* 더 맵게
+* 베스트앨범
+
 ### [2021 KAKAO BLIND RECRUITMENT](https://github.com/ljiwoo59/Algorithm_Java/tree/master/Programmers/2021Kakao)
 * 신규 아이디 추천
 * 순위 검색
