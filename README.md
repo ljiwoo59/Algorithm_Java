@@ -62,6 +62,7 @@
 * 17070 파이프 옮기기 1
 * 11401 이항 계수 3
 * 1194 달이 차오른다, 가자.
+* 17143 낚시왕
 
 ### [Silver](https://github.com/ljiwoo59/algorithm_java/tree/master/Baekjoon/silver)
 * 2564 경비원
@@ -150,6 +151,7 @@
 
 ## [JUNGOL](https://github.com/ljiwoo59/Algorithm_Java/tree/master/JUNGOL)
 * 1681 해밀턴 순환회로
+* 1082 화염에서탈출
 
 ---
 # [Concepts](https://github.com/ljiwoo59/Algorithm_Study)
