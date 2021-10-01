@@ -30,6 +30,13 @@
 * **BFS** 를 이용하여 각 섬에서 다른 섬 까지의 다리 시도
 * **Kruskal** 을 이용하여 모든 섬을 연결하는 다리 길이의 최소값 구하기
 
+## [17143 낚시왕](https://www.acmicpc.net/problem/17143)
+### [Code1](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B17143.java)
+* 3차원 배열 맵 (초, row, column)을 이용
+### [Code2](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B17143_2.java)
+* *LinkedList* 배열을 이용하여 각 col 당 상저 정보 저장
+* 속도 값은 **해당 행/열 최대값 - 1 * 2 의 모듈러 연산**으로 불필요한 중복연산 방지
+
 ---
 
 # Gold 3
