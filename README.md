@@ -63,6 +63,7 @@
 * 11401 이항 계수 3
 * 1194 달이 차오른다, 가자.
 * 17143 낚시왕
+* 15961 회전 초밥
 
 ### [Silver](https://github.com/ljiwoo59/algorithm_java/tree/master/Baekjoon/silver)
 * 2564 경비원
