@@ -21,3 +21,8 @@
 ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Programmers/Prac/Carpet.java)
 * **완전 탐색**
 * 약수를 구해 조건에 맞는 지 비교
+
+## [위장](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Programmers/Prac/Camouflage.java)
+### [Code](https://programmers.co.kr/learn/courses/30/lessons/42578)
+* **HashMap** 을 이용하여 각 부위별 갯수 저장
+* 경우의 수는 각 부위별 갯수 + 1 을 곱해준 뒤 1 을 빼준다
