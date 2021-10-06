@@ -103,6 +103,7 @@
 ## SW Expert Academy
 ### [모의 역량테스트](https://github.com/ljiwoo59/Algorithm_Java/tree/master/SWAcademy/Prac)
 * 1953 탈주범 검거
+* 4014 활주로 건설
 
 ### [D5](https://github.com/ljiwoo59/Algorithm_Java/tree/master/SWAcademy/D5)
 * 1247 최적 경로
@@ -145,6 +146,7 @@
 * 다리를 지나는 트럭
 * 스킬트리
 * 카펫
+* 위장
 
 ### [2021 KAKAO BLIND RECRUITMENT](https://github.com/ljiwoo59/Algorithm_Java/tree/master/Programmers/2021Kakao)
 * 신규 아이디 추천
