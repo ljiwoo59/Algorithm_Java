@@ -355,3 +355,12 @@
   * 가로는 가로 + 대각선
   * 세로는 세로 + 대각선
   * 대각선은 가로 + 세로 + 대각선
+
+## [2116 주사위 쌓기](https://www.acmicpc.net/problem/2116)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B2116.java)
+* 맨 아래 주사위의 경우의 수 6 가지로 쌓으면서 최대 옆면의 숫자 누적
+
+## [3107 IPv6](https://www.acmicpc.net/problem/3107)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B3107.java)
+* *split* 함수는 "::" 만 기준으로만 나눈다
+* *StringTokenizer* 는 "::" 일시, ":", "::" 둘다 나눈다
