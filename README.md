@@ -66,6 +66,8 @@
 * 15961 회전 초밥
 * 2116 주사위 쌓기
 * 3107 IPv6
+* 2151 거울 설치
+* 13549 숨바꼭질 3
 
 ### [Silver](https://github.com/ljiwoo59/algorithm_java/tree/master/Baekjoon/silver)
 * 2564 경비원
