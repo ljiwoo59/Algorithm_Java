@@ -174,6 +174,12 @@
   * *(현재 원소 + 연속 접시 수 - 1) % 총 접시 수)* 를 사용하여 다음 윈도우 원소 넣기
   * 쿠폰을 사용할 수 있으면 1 추가 (중복 되지 않았는지 체크)
 
+## [2151 거울 설치](https://www.acmicpc.net/problem/2151)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B2151.java)
+* **BFS**
+* 거울의 방향에 따라 방문이 달라지기 때문에 거울로 쏘는 방향마다의 3차원 방문 배열
+* 거울을 두지 않았을 때, 거울에 반사될 때 양쪽의 경우 시도
+
 ---
 
 # Gold 5
@@ -364,3 +370,10 @@
 ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B3107.java)
 * *split* 함수는 "::" 만 기준으로만 나눈다
 * *StringTokenizer* 는 "::" 일시, ":", "::" 둘다 나눈다
+
+## [13549 숨바꼭질 3](https://www.acmicpc.net/problem/13549)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B13549.java)
+* 최단 시간이기 때문에 **ProrityQueue** 이용
+* 각 숫자마다 방문 배열
+* 순간이동 했을 때, -1 칸 갔을 때, 1 칸 갔을 때 시도
+
