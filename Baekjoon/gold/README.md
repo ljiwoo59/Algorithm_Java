@@ -180,6 +180,16 @@
 * 거울의 방향에 따라 방문이 달라지기 때문에 거울로 쏘는 방향마다의 3차원 방문 배열
 * 거울을 두지 않았을 때, 거울에 반사될 때 양쪽의 경우 시도
 
+## [3865 학회원](https://www.acmicpc.net/problem/3865)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B3865.java)
+* **HashMap<String, HashSet<String>>**
+  * Key : 학회
+  * Value : 학회원
+  * 학회원이 중복되지 않도록 *HashSet* 사용
+* 첫번째 학회의 학회원 수를 구하므로, 첫번째 학회 기준으로 다른 학회 언급 시, 재귀를 타고 들어간다
+  * 학회 방문 배열을 생성하여 무한 재귀 방지
+ 
+ 
 ---
 
 # Gold 5
@@ -377,3 +387,12 @@
 * 각 숫자마다 방문 배열
 * 순간이동 했을 때, -1 칸 갔을 때, 1 칸 갔을 때 시도
 
+ ## [7490 0 만들기](https://www.acmicpc.net/problem/7490)
+ ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B7490.java)
+ * **중복순열**
+   * 연산자의 중복 순열을 구한 후 값이 0 이면 출력
+ 
+ ## [2225 합분해](https://www.acmicpc.net/problem/2225)
+ ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B2225.java)
+ * **DP**
+   * dp[K][N] = dp[K-1][N] + dp[K][N-1]
