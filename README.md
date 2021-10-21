@@ -68,6 +68,9 @@
 * 3107 IPv6
 * 2151 거울 설치
 * 13549 숨바꼭질 3
+* 3865 학회원
+* 7490 0 만들기
+* 2225 합분해
 
 ### [Silver](https://github.com/ljiwoo59/algorithm_java/tree/master/Baekjoon/silver)
 * 2564 경비원
