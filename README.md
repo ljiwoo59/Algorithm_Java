@@ -71,6 +71,8 @@
 * 3865 학회원
 * 7490 0 만들기
 * 2225 합분해
+* 9177 단어 섞기
+* 3663 고득점
 
 ### [Silver](https://github.com/ljiwoo59/algorithm_java/tree/master/Baekjoon/silver)
 * 2564 경비원
