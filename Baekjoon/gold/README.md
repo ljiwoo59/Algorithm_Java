@@ -189,6 +189,11 @@
 * 첫번째 학회의 학회원 수를 구하므로, 첫번째 학회 기준으로 다른 학회 언급 시, 재귀를 타고 들어간다
   * 학회 방문 배열을 생성하여 무한 재귀 방지
  
+## [3663 고득점](https://www.acmicpc.net/problem/3663)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B3663.java)
+* **문자열**
+* *name[i] - 'A' 와 'Z' - name[j] + 1* 중 작은 값 합산
+* 각 자리 기준 다음으로 바꿀 자리로 가는데 왼쪽으로 갈지 오른쪽으로 갈지 결정
  
 ---
 
@@ -396,3 +401,13 @@
  ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B2225.java)
  * **DP**
    * dp[K][N] = dp[K-1][N] + dp[K][N-1]
+
+ ## [9177 단어 섞기](https://www.acmicpc.net/problem/9177)
+ ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B9177.java)
+ * **DP**
+ * 각 단어간 현재까지 본 인덱스 방문 배열
+   * 중복 방문을 하지 않음으로서 메모리 초과 방지
+ * 두 단어의 인덱스의 합은 현재 보는 최종 단어의 인덱스
+   * 최종 단어의 인덱스에 도달하면 단어가 만들어진다
+ 
+ 
