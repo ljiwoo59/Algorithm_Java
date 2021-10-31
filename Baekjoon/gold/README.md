@@ -410,4 +410,8 @@
  * 두 단어의 인덱스의 합은 현재 보는 최종 단어의 인덱스
    * 최종 단어의 인덱스에 도달하면 단어가 만들어진다
  
- 
+## [20437 문자열 게임 2](https://www.acmicpc.net/problem/20437)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B20437.java)
+* 알파벳 당 인덱스 위치를 저장해 놓을 *ArrayList* 배열 구현
+  * 해당 알파벳의 리스트 사이즈가 N 이상이면, N 개를 포함하는 가장 짧은 문자열과 가장 긴 문자열 길이를 구한다
+* 만족하는 문자열이 존재하지 않으면 -1 리턴
