@@ -73,6 +73,7 @@
 * 2225 합분해
 * 9177 단어 섞기
 * 3663 고득점
+* 20437 문자열 게임 2
 
 ### [Silver](https://github.com/ljiwoo59/algorithm_java/tree/master/Baekjoon/silver)
 * 2564 경비원
