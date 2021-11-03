@@ -74,6 +74,9 @@
 * 9177 단어 섞기
 * 3663 고득점
 * 20437 문자열 게임 2
+* 16398 행성 연결
+* 4386 별자리 만들기
+* 6497 전력난
 
 ### [Silver](https://github.com/ljiwoo59/algorithm_java/tree/master/Baekjoon/silver)
 * 2564 경비원
