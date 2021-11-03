@@ -194,6 +194,25 @@
 * **문자열**
 * *name[i] - 'A' 와 'Z' - name[j] + 1* 중 작은 값 합산
 * 각 자리 기준 다음으로 바꿀 자리로 가는데 왼쪽으로 갈지 오른쪽으로 갈지 결정
+
+## [16398 행성 연결](https://www.acmicpc.net/problem/16398)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B16398.java)
+* **MST**
+* ***PriorityQueue***
+* 누적합이 int 를 넘어가므로 *long* 사용
+ 
+## [4386 별자리 만들기](https://www.acmicpc.net/problem/4386)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B4386.java)
+* **MST**
+* **PriorityQueue**
+* *double* 형의 좌표 계산, 소숫점 2자리까지 출력
+ 
+## [6497 전력난](https://www.acmicpc.net/problem/6497)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B6497.java)
+* **MST**
+* ***PriorityQueue***
+* 0 0 입력 전까지 loop
+* 모든합 - 누적합 출력
  
 ---
 
