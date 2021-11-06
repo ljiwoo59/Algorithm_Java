@@ -434,3 +434,9 @@
 * 알파벳 당 인덱스 위치를 저장해 놓을 *ArrayList* 배열 구현
   * 해당 알파벳의 리스트 사이즈가 N 이상이면, N 개를 포함하는 가장 짧은 문자열과 가장 긴 문자열 길이를 구한다
 * 만족하는 문자열이 존재하지 않으면 -1 리턴
+ 
+## [14719 빗물](https://www.acmicpc.net/status?user_id=ljiwoo59&problem_id=14719&from_mine=1)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B14719.java)
+* 2차원 세계를 나타낼 2차원 배열
+* max 높이를 저장함으로서 max 높이까지만 계산
+* 바닥부터 최대 높이까지 loop 을 돌며(왼쪽 column 부터), 벽 바로 다음 빗물 부터 재귀를 통해 벽으로 갇히는지(고이므로 계산), 갇히지 않는지 구현
