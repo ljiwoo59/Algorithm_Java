@@ -78,6 +78,7 @@
 * 4386 별자리 만들기
 * 6497 전력난
 * 14719 빗물
+* 2140 지뢰찾기
 
 ### [Silver](https://github.com/ljiwoo59/algorithm_java/tree/master/Baekjoon/silver)
 * 2564 경비원
