@@ -214,6 +214,12 @@
 * 0 0 입력 전까지 loop
 * 모든합 - 누적합 출력
  
+## [2096 내려가기](https://www.acmicpc.net/problem/2096)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B2096.java)
+* **DP**
+* min 과 max 를 담을 dp 배열 두개
+* 양쪽 대각선 위와 바로 위를 현재 위치에 더한 값을 비교하며 최소 누적합과 최대 누적합을 구한다
+ 
 ---
 
 # Gold 5
