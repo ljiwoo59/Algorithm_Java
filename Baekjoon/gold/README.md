@@ -220,6 +220,14 @@
 * min 과 max 를 담을 dp 배열 두개
 * 양쪽 대각선 위와 바로 위를 현재 위치에 더한 값을 비교하며 최소 누적합과 최대 누적합을 구한다
  
+## [1956 운동](https://www.acmicpc.net/problem/1956)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B1956.java)
+* **Floyd-Warshall**
+* 사이클을 구하는 문제이므로 d\[i]\[i] 의 값을 INF 로 초기화 한다
+* 모든 경유지, 모든 시작점, 모든 도착점을 돌며 *d\[i]\[j] = Math.min(d\[i]\[j], d\[i]\[k] + d\[k]\[j])*
+* d\[i]\[i] 중에서 제일 작은 값이 정답
+  * 모두 INF 라면, 싸이클이 존재하지 않음
+ 
 ---
 
 # Gold 5
