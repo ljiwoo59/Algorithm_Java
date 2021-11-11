@@ -464,7 +464,7 @@
 * 각 재귀에서 받은 핀 개수와 움직임 수를 최소 핀 개수와 비교하여 업데이트
 
 ## [9252 LCS 2](https://www.acmicpc.net/problem/9252)
-### [Code]()
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B9252.java)
 * **DP**
 * 현재까지 본 글자 2차원 배열
   * 현재 위치의 글자가 같으면 대각선 위에서 1을 더한다
