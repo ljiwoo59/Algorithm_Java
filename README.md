@@ -81,6 +81,7 @@
 * 2140 지뢰찾기
 * 9207 페그 솔리테어
 * 2096 내려가기
+* 9252 LCS 2
 
 ### [Silver](https://github.com/ljiwoo59/algorithm_java/tree/master/Baekjoon/silver)
 * 2564 경비원
