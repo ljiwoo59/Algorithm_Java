@@ -49,6 +49,10 @@
 * **조합**을 이용하여 이다솜파가 4개 이상인 조합 구하기
 * **DFS** 를 이용하여 연결 확인
 
+## [16172 나는 친구가 적다 (Large)](https://www.acmicpc.net/problem/16172)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B16172.java)
+* **KMP**
+
 ---
 
 # Gold 4
@@ -182,7 +186,7 @@
 
 ## [3865 학회원](https://www.acmicpc.net/problem/3865)
 ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B3865.java)
-* **HashMap<String, HashSet<String>>**
+* **HashMap<String, HashSet\<String>>**
   * Key : 학회
   * Value : 학회원
   * 학회원이 중복되지 않도록 *HashSet* 사용
@@ -480,3 +484,8 @@
 * 모든 글자를 본 위치에서 부터 거꾸로 올라가며 문자열을 찾는다
   * 전 글자와 문자열 길이가 같으면 위치를 전 글자로 바꾼다
   * 길이가 같지 않으면, 해당 위치가 해당 길이 인덱스의 글자
+
+## [2866 문자열 잘라내기](https://www.acmicpc.net/problem/2866)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B2866.java)
+* *Set* 을 사용하여 중복 관리
+* 문자열을 잘라내며 중복 확인
