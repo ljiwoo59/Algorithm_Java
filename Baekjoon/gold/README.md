@@ -49,6 +49,10 @@
 * **조합**을 이용하여 이다솜파가 4개 이상인 조합 구하기
 * **DFS** 를 이용하여 연결 확인
 
+## [16172 나는 친구가 적다 (Large)](https://www.acmicpc.net/problem/16172)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B16172.java)
+* **KMP**
+
 ---
 
 # Gold 4
@@ -182,7 +186,7 @@
 
 ## [3865 학회원](https://www.acmicpc.net/problem/3865)
 ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B3865.java)
-* **HashMap<String, HashSet<String>>**
+* **HashMap<String, HashSet\<String>>**
   * Key : 학회
   * Value : 학회원
   * 학회원이 중복되지 않도록 *HashSet* 사용
@@ -219,6 +223,14 @@
 * **DP**
 * min 과 max 를 담을 dp 배열 두개
 * 양쪽 대각선 위와 바로 위를 현재 위치에 더한 값을 비교하며 최소 누적합과 최대 누적합을 구한다
+ 
+## [1956 운동](https://www.acmicpc.net/problem/1956)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B1956.java)
+* **Floyd-Warshall**
+* 사이클을 구하는 문제이므로 d\[i]\[i] 의 값을 INF 로 초기화 한다
+* 모든 경유지, 모든 시작점, 모든 도착점을 돌며 *d\[i]\[j] = Math.min(d\[i]\[j], d\[i]\[k] + d\[k]\[j])*
+* d\[i]\[i] 중에서 제일 작은 값이 정답
+  * 모두 INF 라면, 싸이클이 존재하지 않음
  
 ---
 
@@ -472,3 +484,8 @@
 * 모든 글자를 본 위치에서 부터 거꾸로 올라가며 문자열을 찾는다
   * 전 글자와 문자열 길이가 같으면 위치를 전 글자로 바꾼다
   * 길이가 같지 않으면, 해당 위치가 해당 길이 인덱스의 글자
+
+## [2866 문자열 잘라내기](https://www.acmicpc.net/problem/2866)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B2866.java)
+* *Set* 을 사용하여 중복 관리
+* 문자열을 잘라내며 중복 확인

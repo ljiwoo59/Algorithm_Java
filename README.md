@@ -82,6 +82,9 @@
 * 9207 페그 솔리테어
 * 2096 내려가기
 * 9252 LCS 2
+* 1956 운동
+* 16172 나는 친구가 적다 (Large)
+* 2866 문자열 잘라내기
 
 ### [Silver](https://github.com/ljiwoo59/algorithm_java/tree/master/Baekjoon/silver)
 * 2564 경비원
