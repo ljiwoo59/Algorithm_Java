@@ -489,3 +489,8 @@
 ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B2866.java)
 * *Set* 을 사용하여 중복 관리
 * 문자열을 잘라내며 중복 확인
+
+## [1756 피자 굽기](https://www.acmicpc.net/problem/1756)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B1756.java)
+* 이전 숫자와 같거나 작은 수가 들어가는 오븐 배열
+* 오븐 배열의 뒤부터 확인하며 피자를 넣을 수 있는지 본다
