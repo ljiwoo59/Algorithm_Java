@@ -86,6 +86,7 @@
 * 16172 나는 친구가 적다 (Large)
 * 2866 문자열 잘라내기
 * 1756 피자 굽기
+* 1089 스타트링크 타워
 
 ### [Silver](https://github.com/ljiwoo59/algorithm_java/tree/master/Baekjoon/silver)
 * 2564 경비원
