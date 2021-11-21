@@ -494,3 +494,7 @@
 ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B1756.java)
 * 이전 숫자와 같거나 작은 수가 들어가는 오븐 배열
 * 오븐 배열의 뒤부터 확인하며 피자를 넣을 수 있는지 본다
+
+## [1089 스타트링크 타워](https://www.acmicpc.net/problem/1089)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B1089.java)
+* 현재 자리의 숫자 \* 현재 자리를 제외한 다른 자리의 경우의 수의 곱 \* 10 의 현재 자리 승
