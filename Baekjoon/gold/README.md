@@ -500,7 +500,7 @@
 * 현재 자리의 숫자 \* 현재 자리를 제외한 다른 자리의 경우의 수의 곱 \* 10 의 현재 자리 승
 
 ## [1240 노드사이의 거리](https://www.acmicpc.net/problem/1240)
-###[Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B1240.java)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B1240.java)
 * **Floyd-Warshall** 와 같은 구조로 동적계획법 없이 구현
   * 모든 쌍의 노드 거리를 구한다
 
