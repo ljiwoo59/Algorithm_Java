@@ -232,6 +232,14 @@
 * d\[i]\[i] 중에서 제일 작은 값이 정답
   * 모두 INF 라면, 싸이클이 존재하지 않음
  
+ ## [1976 여행 가자](https://www.acmicpc.net/problem/1976)
+ ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B1976.java)
+ * **UnionSet**
+   * 연결된 길이면 union 을 사용하여 합집합으로 연결시킨다
+   * 이때, 부모는 작은 숫자를 기준으로 잡는다
+   * 여행 도시를 입력 받으며 (최초 여행도시를 루트로 지정한다) 도시들이 연결되어있는지 확인
+
+
 ---
 
 # Gold 5
