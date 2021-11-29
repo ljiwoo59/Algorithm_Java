@@ -515,3 +515,8 @@
 ## [1245 농장 관리](https://www.acmicpc.net/problem/1245)
 ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B1245.java)
 * **DFS**
+
+## [14500 테트로미노](https://www.acmicpc.net/problem/14500)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B14500.java)
+* **DFS**
+  * ㅏ, ㅓ, ㅗ, ㅜ 경우를 제외하곤, 4개를 고르는 DFS
