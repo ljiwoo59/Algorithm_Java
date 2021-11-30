@@ -91,6 +91,7 @@
 * 1245 농장 관리
 * 1976 여행 가자
 * 14500 테트로미노
+* 5427 불
 
 ### [Silver](https://github.com/ljiwoo59/algorithm_java/tree/master/Baekjoon/silver)
 * 2564 경비원
