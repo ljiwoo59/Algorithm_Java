@@ -246,6 +246,10 @@
   * 플레이어가 맵의 테두리에 도달할 때까지, 혹은 갈 곳이 없을 때 까지 사방탐색
   * 불과 플레이어가 같은 곳을 맴돌지 않도록 방문 처리 (불은 벽이거나 불이 아닐때만, 플레이어는 빈칸일때만 이동)
 
+## [1027 고층 건물](https://www.acmicpc.net/problem/1027)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B1027.java)
+* 각 건물 기준으로 왼쪽은 기울기가 작아질때 마다 더해준다
+* 오른쪽은 기울기가 커질때 마다 더해준다
 
 ---
 
