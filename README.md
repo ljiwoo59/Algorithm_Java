@@ -150,6 +150,7 @@
 * 3124 최소 스패닝 트리
 * 5643 키 순서
 * 1249 보급로
+* 1865 동철이의 일 분배
 
 ### [D3](https://github.com/ljiwoo59/algorithm_java/tree/master/SWAcademy/D3)
 * 1289 원재의 메모리 복구하기
