@@ -251,6 +251,12 @@
 * 각 건물 기준으로 왼쪽은 기울기가 작아질때 마다 더해준다
 * 오른쪽은 기울기가 커질때 마다 더해준다
 
+## [11404 플로이드](https://www.acmicpc.net/problem/11404)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B11404.java)
+* **Floyd-Warshall**
+  * 시작과 경유지가 같거나, 시작과 도착지가 같거나, 도착과 경유지가 같거나, 시작에서 경유지 또는 경유지에서 도착지의 노선이 없을 시 스킵
+  * 중복 노선이 있을 수 있으므로, 최소 비용의 노선만 미리 저장
+
 ---
 
 # Gold 5
