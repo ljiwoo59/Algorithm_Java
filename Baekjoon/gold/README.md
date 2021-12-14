@@ -53,6 +53,10 @@
 ### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B16172.java)
 * **KMP**
 
+## [14890 경사로](https://www.acmicpc.net/problem/14890)
+### [Code](https://github.com/ljiwoo59/Algorithm_Java/blob/master/Baekjoon/gold/B14890.java)
+* 각 행과 열을 돌며 조건처리, 경사로 길이 체크
+
 ---
 
 # Gold 4
